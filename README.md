@@ -1,6 +1,12 @@
 # dhoxss-text2tech
 Materials for the Text to Tech workshop at the Digital Humanities Oxford Summer School
 
+
+## Data
+
+The workshop will rely on the  `Living Machines atypical animacy dataset` which we have added to this GitHub repo and it is also freely available [here](https://bl.iro.bl.uk/concern/datasets/323177af-6081-4e93-8aaf-7932ca4a390a?locale=en).
+
+
 ## References
 
 This course is based upon many previous resources, in particular:
