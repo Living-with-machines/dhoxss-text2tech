@@ -3,7 +3,7 @@ Materials for the Text to Tech workshop at the Digital Humanities Oxford Summer 
 
 ## Binder
 
-The workshop will rely on [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Living-with-machines/dhoxss-text2tech/main) for the hands-on activities.
+The workshop will rely on [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Living-with-machines/dhoxss-text2tech/dev) for the hands-on activities.
 
 ## Data
 
