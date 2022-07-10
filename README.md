@@ -1,6 +1,9 @@
-# dhoxss-text2tech
+# DHOxSS - From Text to Tech
 Materials for the Text to Tech workshop at the Digital Humanities Oxford Summer School
 
+## Binder
+
+The workshop will rely on [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Living-with-machines/dhoxss-text2tech/main) for the hands-on activities.
 
 ## Data
 
