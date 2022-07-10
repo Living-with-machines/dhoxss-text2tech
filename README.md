@@ -1,4 +1,4 @@
-# DHOxSS - From Text to Tech
+# DHOxSS - Text to Tech
 Materials for the Text to Tech workshop at the Digital Humanities Oxford Summer School
 
 ## Binder
