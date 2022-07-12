@@ -3,3 +3,10 @@ numpy==1.23.0
 pandas==1.4.3
 pyLDAvis==3.3.1
 scikit_learn==1.1.1
+gensim==4.2.0
+protobuf==4.21.2
+scipy==1.6.2
+spacy==3.3.1
+transformers==4.20.1
+matplotlib==3.4.3
+lxml==4.6.3
