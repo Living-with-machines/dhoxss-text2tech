@@ -1,6 +1,9 @@
-matplotlib==3.5.2
-numpy>=1.21.0
+ipython==8.4.0
+numpy==1.23.0
 pandas==1.4.3
+pyLDAvis==3.3.1
+scikit_learn==1.1.1
+matplotlib==3.5.2
 spacyfishing==0.1.5
 gensim==4.2.0
 protobuf==4.21.2
