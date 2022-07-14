@@ -9,7 +9,7 @@ The workshop will rely on [![Binder](https://mybinder.org/badge_logo.svg)](https
 
 Some notebooks run on Google Colab
 
-- Introduction to Word2Vec by Nilo Pedrazzini [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/dev/Sessions/4e-word2vec.ipynb)
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/dev/Sessions/4e-word2vec.ipynb) **Introduction to Word2Vec by Nilo Pedrazzini**
 
 ## Data
 
