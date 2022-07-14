@@ -5,6 +5,12 @@ Materials for the Text to Tech workshop at the Digital Humanities Oxford Summer 
 
 The workshop will rely on [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Living-with-machines/dhoxss-text2tech/dev) for the hands-on activities.
 
+## Colab
+
+Some notebooks run on Google Colab
+
+- Introduction to Word2Vec by Nilo Pedrazzini [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/dev/Sessions/word2vec_dhoxss.ipynb)
+
 ## Data
 
 The workshop will rely on the  `Living Machines atypical animacy dataset` which we have added to this GitHub repo and it is also freely available [here](https://bl.iro.bl.uk/concern/datasets/323177af-6081-4e93-8aaf-7932ca4a390a?locale=en).
