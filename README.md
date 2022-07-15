@@ -1,25 +1,18 @@
 # DHOxSS - Text to Tech
 Materials for the Text to Tech workshop at the Digital Humanities Oxford Summer School
 
-## Binder
+## Binder & Colab
 
-The workshop will rely on [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Living-with-machines/dhoxss-text2tech/dev) for the hands-on activities.
+The workshop will mostly rely on [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Living-with-machines/dhoxss-text2tech/dev) for the hands-on activities.
 
-## Colab
-
-Some notebooks run on Google Colab
+Some notebooks run on Google Colab for computational reasons:
 
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/dev/Sessions/4e-word2vec.ipynb) **Introduction to Word2Vec (Guest lecture by Nilo Pedrazzini)**
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/dev/Sessions/5b-Transformers-for-NLP.ipynb) **Transformers for NLP**
 
-
-## Data
-
-The workshop will rely on the  `Living Machines atypical animacy dataset` which we have added to this GitHub repo and it is also freely available [here](https://bl.iro.bl.uk/concern/datasets/323177af-6081-4e93-8aaf-7932ca4a390a?locale=en).
-
 ## Local installation
 
-At the end of the workshop, if you would like to install Python locally we suggest the following:
+If you would like to install Python locally we suggest the following:
 
 - Install [Anaconda](https://www.anaconda.com/)
 - Clone the content of this repository (or download it for now, if you are not familiar with GitHub)
@@ -30,7 +23,13 @@ At the end of the workshop, if you would like to install Python locally we sugge
 - Start Jupyter (using the Anaconda Navigator or from the terminal running `jupyter lab`)
 - In your notebook select as kernel `py39`
 
-Maybe it will work!
+It should work otherwise let us know!
+
+## Data
+
+The workshop will rely on the  `Living Machines atypical animacy dataset` which we have added to this GitHub repo and it is also freely available [here](https://bl.iro.bl.uk/concern/datasets/323177af-6081-4e93-8aaf-7932ca4a390a?locale=en).
+
+Additionally we will also use a sample of British Library 19th Century Books collected from [here](https://huggingface.co/datasets/blbooks).
 
 ## Advanced Reading List
 
@@ -52,4 +51,3 @@ This course is based upon many previous resources, in particular:
 - [The Turing Way](https://the-turing-way.netlify.app/welcome)
 - [The Turing Digital Humanities & Research Software Engineering Summer School](https://github.com/alan-turing-institute/DH-RSE-Summer-School)
 - Fede's [Computational Text Analysis](https://federiconannidotcom.wordpress.com/computational-text-analysis/) Course
-...
