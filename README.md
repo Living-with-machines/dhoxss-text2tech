@@ -17,6 +17,19 @@ Some notebooks run on Google Colab
 
 The workshop will rely on the  `Living Machines atypical animacy dataset` which we have added to this GitHub repo and it is also freely available [here](https://bl.iro.bl.uk/concern/datasets/323177af-6081-4e93-8aaf-7932ca4a390a?locale=en).
 
+## Local installation
+
+At the end of the workshop, if you would like to install Python locally we suggest the following:
+
+- Install [Anaconda](https://www.anaconda.com/)
+- Clone the content of this repository (or download it for now, if you are not familiar with GitHub)
+- Create a conda environment (following instructions from [here](https://docs.conda.io/projects/conda/en/latest/user-guide/getting-started.html)) with this command: `conda create --name py39 python=3.9`
+- Start your environment with: `conda activate py39`
+- Change directory in the terminal until you are in the course folder. There you should run: `pip install -r requirements.txt`
+- Add the environment to Jupyter (following instructions from [here](https://towardsdatascience.com/get-your-conda-environment-to-show-in-jupyter-notebooks-the-easy-way-17010b76e874))
+- Start Jupyter (using the Anaconda Navigator or from the terminal running `jupyter lab`)
+- In your notebook select as kernel `py39`
+
 
 ## References
 
