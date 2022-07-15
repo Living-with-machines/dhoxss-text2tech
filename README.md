@@ -22,6 +22,7 @@ If you would like to install Python locally we suggest the following:
 - Add the environment to Jupyter (following instructions from [here](https://towardsdatascience.com/get-your-conda-environment-to-show-in-jupyter-notebooks-the-easy-way-17010b76e874)) or by running `ipython kernel install --user --name=py39`
 - Start Jupyter (using the Anaconda Navigator or from the terminal running `jupyter lab`)
 - In your notebook select as kernel `py39`
+- To install new libraries, first you activate the environment in the terminal (`conda activate py39`) and then you run (`pip install [name of the package]`)
 
 It should work otherwise let us know!
 
