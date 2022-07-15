@@ -19,7 +19,7 @@ If you would like to install Python locally we suggest the following:
 - Create a conda environment (following instructions from [here](https://docs.conda.io/projects/conda/en/latest/user-guide/getting-started.html)) with this command: `conda create --name py39 python=3.9`
 - Start your environment with: `conda activate py39`
 - Change directory in the terminal until you are in the course folder. There you should run: `pip install -r requirements.txt`
-- Add the environment to Jupyter (following instructions from [here](https://towardsdatascience.com/get-your-conda-environment-to-show-in-jupyter-notebooks-the-easy-way-17010b76e874))
+- Add the environment to Jupyter (following instructions from [here](https://towardsdatascience.com/get-your-conda-environment-to-show-in-jupyter-notebooks-the-easy-way-17010b76e874)) or by running `ipython kernel install --user --name=py39`
 - Start Jupyter (using the Anaconda Navigator or from the terminal running `jupyter lab`)
 - In your notebook select as kernel `py39`
 
