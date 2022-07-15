@@ -32,6 +32,16 @@ At the end of the workshop, if you would like to install Python locally we sugge
 
 Maybe it will work!
 
+## Advanced Reading List
+
+- Montfort, Nick. [Exploratory Programming for the Arts and Humanities](https://mitpress.mit.edu/books/exploratory-programming-arts-and-humanities). Cambridge, Massachusetts: The MIT Press, 2016.
+- Karsdorp, Folgert. [Python Programming for Humanists](http://www.karsdorp.io/python-course/).
+- Sinclair, Stéfan, and Geoffrey Rockwell. [The Art of Literary Text Analysis](https://github.com/sgsinclair/alta/blob/77b256f7c3ff3ceb6643d53da401096c8cdcc468/ipynb/ArtOfLiteraryTextAnalysis.ipynb). Melissa Mony., 2016.
+- Turkel, William J., and Alan MacEachern. [The Programming Historian](https://programminghistorian.org/en/).
+- Graham, Shawn, Ian Milligan, Scott Weingart. [The Historian’s Macroscope](http://themacroscope.org). Open Draft Version, Autumn 2013,
+- Downey, Allen, Peter Wentworth, Jeffrey Elkner, and Chris Meyers. “How To Think Like A Computer Scientist: Learning with Python 3.” (2016).
+- Walsh, Melanie. [Introduction to Cultural Analytics & Python](https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html). 
+- Karsdorp, Folgert, Mike Kestemont, and Allen Riddell. [Humanities data analysis: case studies with Python.](https://www.humanitiesdataanalysis.org/) Princeton University Press, 2021.
 
 ## References
 
