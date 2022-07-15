@@ -38,7 +38,7 @@ Additionally we will also use a sample of British Library 19th Century Books col
 - Sinclair, Stéfan, and Geoffrey Rockwell. [The Art of Literary Text Analysis](https://github.com/sgsinclair/alta/blob/77b256f7c3ff3ceb6643d53da401096c8cdcc468/ipynb/ArtOfLiteraryTextAnalysis.ipynb). Melissa Mony., 2016.
 - Turkel, William J., and Alan MacEachern. [The Programming Historian](https://programminghistorian.org/en/).
 - Graham, Shawn, Ian Milligan, Scott Weingart. [The Historian’s Macroscope](http://themacroscope.org). Open Draft Version, Autumn 2013,
-- Downey, Allen, Peter Wentworth, Jeffrey Elkner, and Chris Meyers. “How To Think Like A Computer Scientist: Learning with Python 3.” (2016).
+- Downey, Allen, Peter Wentworth, Jeffrey Elkner, and Chris Meyers. [How To Think Like A Computer Scientist: Learning with Python 3](https://buildmedia.readthedocs.org/media/pdf/howtothink/latest/howtothink.pdf). (2016).
 - Walsh, Melanie. [Introduction to Cultural Analytics & Python](https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html). 
 - Karsdorp, Folgert, Mike Kestemont, and Allen Riddell. [Humanities data analysis: case studies with Python.](https://www.humanitiesdataanalysis.org/) Princeton University Press, 2021.
 
