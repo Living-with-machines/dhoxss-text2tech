@@ -30,6 +30,8 @@ At the end of the workshop, if you would like to install Python locally we sugge
 - Start Jupyter (using the Anaconda Navigator or from the terminal running `jupyter lab`)
 - In your notebook select as kernel `py39`
 
+Maybe it will work!
+
 
 ## References
 
