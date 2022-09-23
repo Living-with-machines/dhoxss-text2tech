@@ -5,7 +5,7 @@ lxml>=4.6.3
 matplotlib==3.5.2
 numpy>=1.20.1
 pandas>=1.2.4
-protobuf==4.21.2
+protobuf==4.21.6
 pyLDAvis==3.3.1
 requests>=2.25.1
 scikit_learn==1.1.1
