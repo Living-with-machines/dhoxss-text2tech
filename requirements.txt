@@ -1,5 +1,5 @@
-gensim==4.2.0
 geopy==2.2.0
+gensim==4.3.1
 ipython==8.4.0
 lxml>=4.6.3
 matplotlib==3.5.2
@@ -8,11 +8,11 @@ pandas>=1.2.4
 protobuf==4.21.2
 pyLDAvis==3.3.1
 requests>=2.25.1
-scikit_learn==1.1.1
+scikit-learn==1.1.1
 scipy>=1.6.2
 spacy>=3.3.1
 spacy_stanza==1.0.2
 spacyfishing==0.1.5
 stanza==1.4.0
 torch==1.12.0
-transformers==4.20.1
+transformers==4.29.2
