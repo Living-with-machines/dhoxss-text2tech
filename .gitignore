@@ -131,3 +131,6 @@ dmypy.json
 #Data folder
 Sessions/data/*
 Sessions/*.zip
+.DS_Store
+Sessions/.DS_Store
+Sessions/models/*
