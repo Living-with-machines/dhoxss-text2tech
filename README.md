@@ -58,22 +58,31 @@ Datasets used:
 
 - A sample of British Newspapers articles, digitized by [Heritage Made Digital](https://doi.org/10.23636/1163). 
 
-## Advanced Reading List
+## Background reading (optional):
 
-- Montfort, Nick. [Exploratory Programming for the Arts and Humanities](https://mitpress.mit.edu/books/exploratory-programming-arts-and-humanities). Cambridge, Massachusetts: The MIT Press, 2016.
-- Karsdorp, Folgert. [Python Programming for Humanists](http://www.karsdorp.io/python-course/).
-- Sinclair, Stéfan, and Geoffrey Rockwell. [The Art of Literary Text Analysis](https://github.com/sgsinclair/alta/blob/77b256f7c3ff3ceb6643d53da401096c8cdcc468/ipynb/ArtOfLiteraryTextAnalysis.ipynb). Melissa Mony., 2016.
-- Turkel, William J., and Alan MacEachern. [The Programming Historian](https://programminghistorian.org/en/).
-- Graham, Shawn, Ian Milligan, Scott Weingart. [The Historian’s Macroscope](http://themacroscope.org). Open Draft Version, Autumn 2013,
-- Downey, Allen, Peter Wentworth, Jeffrey Elkner, and Chris Meyers. [How To Think Like A Computer Scientist: Learning with Python 3](https://buildmedia.readthedocs.org/media/pdf/howtothink/latest/howtothink.pdf). (2016).
-- Walsh, Melanie. [Introduction to Cultural Analytics & Python](https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html). 
-- Karsdorp, Folgert, Mike Kestemont, and Allen Riddell. [Humanities data analysis: case studies with Python.](https://www.humanitiesdataanalysis.org/) Princeton University Press, 2021.
+- Walsh, Melanie. Introduction to Cultural Analytics & Python, https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome
+- Karsdorp, Folgert. Python Programming for Humanists. http://www.karsdorp.io/python-course/.
+- Montfort, Nick. Exploratory Programming for the Arts and Humanities. Cambridge, Massachusetts: The MIT Press, 2016. https://mitpress.mit.edu/books/exploratory-programming-arts-and-humanities.
+- Sinclair, Stéfan, and Geoffrey Rockwell. The Art of Literary Text Analysis. Melissa Mony., 2016. https://github.com/sgsinclair/alta/blob/77b256f7c3ff3ceb6643d53da401096c8cdcc468/ipynb/ArtOfLiteraryTextAnalysis.ipynb.
+- Graham, Shawn, Ian Milligan, Scott Weingart. The Historian's Macroscope. Under contract with Imperial College Press. Open Draft Version, Autumn 2013, http://themacroscope.org
+- Downey, Allen, Peter Wentworth, Jeffrey Elkner, and Chris Meyers. “How To Think Like A Computer Scientist: Learning with Python 3.” (2016).
+- Karsdorp, Folgert, Mike Kestemont and Allen Riddell, Humanities Data Analysis: Case Studies with Python, https://www.humanitiesdataanalysis.org
 
-## References
+## Advanced reading list (optional):
 
-This course is based upon many previous resources, in particular:
+- Jurafsky, Daniel, and J. H. Martin. "Vector semantics and embeddings." Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition (2019): 94-122. https://web.stanford.edu/~jurafsky/slp3/6.pdfLinks to an external site.
+- Smith, Noah A. "Contextual word representations: A contextual introduction." arXiv preprint arXiv:1902.06006 (2019). https://arxiv.org/pdf/1902.06006.pdfLinks to an external site.
+- Boleda, Gemma. "Distributional semantics and linguistic theory." Annual Review of Linguistics 6 (2020): 213-234. https://arxiv.org/pdf/1905.01896.pdfLinks to an external site.
+- Rogers, Anna. "Changing the World by Changing the Data." arXiv preprint arXiv:2105.13947 (2021). https://arxiv.org/pdf/2105.13947.pdfLinks to an external site.
+- Wevers, Melvin, and Marijn Koolen. "Digital begriffsgeschichte: Tracing semantic change using word embeddings." Historical Methods: A Journal of Quantitative and Interdisciplinary History 53, no. 4 (2020): 226-243. https://www.tandfonline.com/doi/pdf/10.1080/01615440.2020.1760157Links to an external site.
+- Bender, Emily M., and Alexander Koller. "Climbing towards NLU: On meaning, form, and understanding in the age of data." In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics, pp. 5185-5198. 2020. https://www.aclweb.org/anthology/2020.acl-main.463.pdfLinks to an external site.
+- Grimmer, Justin, Margaret E. Roberts, and Brandon M. Stewart. "Text as data: A new framework for machine learning and the social sciences." Princeton University Press, 2022. https://press.princeton.edu/books/paperback/9780691207551/text-as-data
 
-- On the materials from previous editions of this course, written by Barbara McGillivray and Gard Jenset 
+## Other Resources
+
+This course is based upon many previous resources. Apart from the ones above:
+- Nilo Pedrazzini's introduction notebook to Word2Vec.
+- Materials from previous editions of this course, written by Barbara McGillivray and Gard Jenset 
 - The Turing's [Research Software Engineering](https://alan-turing-institute.github.io/rse-course/html/index.html) and [Research Data Science](https://alan-turing-institute.github.io/rds-course/index.html) Courses
 - [The Turing Way](https://the-turing-way.netlify.app/welcome)
 - [The Turing Digital Humanities & Research Software Engineering Summer School](https://github.com/alan-turing-institute/DH-RSE-Summer-School)
