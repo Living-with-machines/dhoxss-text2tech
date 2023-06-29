@@ -78,7 +78,7 @@ Datasets used:
 - Bender, Emily M., and Alexander Koller. "Climbing towards NLU: On meaning, form, and understanding in the age of data." In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics, pp. 5185-5198. 2020. https://www.aclweb.org/anthology/2020.acl-main.463.pdfLinks to an external site.
 - Grimmer, Justin, Margaret E. Roberts, and Brandon M. Stewart. "Text as data: A new framework for machine learning and the social sciences." Princeton University Press, 2022. https://press.princeton.edu/books/paperback/9780691207551/text-as-data
 
-## Other Resources
+## Other Resources
 
 This course is based upon many previous resources. Apart from the ones above:
 - Nilo Pedrazzini's introduction notebook to Word2Vec.
