@@ -14,6 +14,8 @@ Some notebooks run you can on Google Colab for computational reasons:
 - Functions [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/colab/Sessions/1c-Functions.ipynb)
 - Opening Files [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/colab/Sessions/1d-Opening-files.ipynb)
 
+- Dictionaries and JSON [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/colab/Sessions/2e-Dictionaries-and-json.ipynb)
+
 
 
 
