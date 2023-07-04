@@ -9,14 +9,26 @@ Some notebooks run you can on Google Colab for computational reasons:
 
 ### Colab
 
+## Day 1
+
 - Intro to Python (a) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/colab/Sessions/1a-Intro-to-Python.ipynb)
 - Intro to Python (b) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/colab/Sessions/1b-Intro-to-Python.ipynb)
 - Functions [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/colab/Sessions/1c-Functions.ipynb)
 - Opening Files [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/colab/Sessions/1d-Opening-files.ipynb)
 
+## Day 2
+
+- Basic Text Processing [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/colab/Sessions/2a-Basic-text-processing.ipynb)
+
+- List, sets and tules [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/colab/Sessions/2b-Lists-sets-and-tuples.ipynb)
+
+- Regular Expressions [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/colab/Sessions/2c-Regular-expressions.ipynb)
+
+- Text Processing Exercises [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/colab/Sessions/2d-Text-processing-exercises.ipynb)
+
 - Dictionaries and JSON [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/colab/Sessions/2e-Dictionaries-and-json.ipynb)
 
-
+- Data Structures Exercises [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/colab/Sessions/2f-Data-structures-exercises.ipynb)
 
 
 ### Word2Vec Notebooks
