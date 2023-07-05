@@ -32,6 +32,8 @@ Some notebooks run you can on Google Colab for computational reasons:
 
 - Data Structures Exercises [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/colab/Sessions/2f-Data-structures-exercises.ipynb)
 
+- Libraries [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/colab/Sessions/3a-Libraries.ipynb)
+
 - Working with tabular data [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/colab/Sessions/3b-Working-with-tabular-data.ipynb)
 
 - Working with XML [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/colab/Sessions/3c-Reading-XML-files.ipynb)
