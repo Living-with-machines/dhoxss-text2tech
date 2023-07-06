@@ -7,6 +7,39 @@ The workshop will mostly rely on [![Binder](https://mybinder.org/badge_logo.svg)
 
 Some notebooks run you can on Google Colab for computational reasons:
 
+### Colab
+
+## Day 1
+
+- Intro to Python (a) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/colab/Sessions/1a-Intro-to-Python.ipynb)
+- Intro to Python (b) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/colab/Sessions/1b-Intro-to-Python.ipynb)
+- Functions [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/colab/Sessions/1c-Functions.ipynb)
+- Opening Files [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/colab/Sessions/1d-Opening-files.ipynb)
+
+## Day 2
+
+- Basic Text Processing [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/colab/Sessions/2a-Basic-text-processing.ipynb)
+
+- List, sets and tules [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/colab/Sessions/2b-Lists-sets-and-tuples.ipynb)
+
+- Regular Expressions [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/colab/Sessions/2c-Regular-expressions.ipynb)
+
+- Text Processing Exercises [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/colab/Sessions/2d-Text-processing-exercises.ipynb)
+
+## Day 3
+
+- Dictionaries and JSON [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/colab/Sessions/2e-Dictionaries-and-json.ipynb)
+
+- Data Structures Exercises [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/colab/Sessions/2f-Data-structures-exercises.ipynb)
+
+- Libraries [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/colab/Sessions/3a-Libraries.ipynb)
+
+- Working with tabular data [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/colab/Sessions/3b-Working-with-tabular-data.ipynb)
+
+- Working with XML [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/colab/Sessions/3c-Reading-XML-files.ipynb)
+
+
+### Day 5
 ### Word2Vec Notebooks
 
 **Note:** To run notebooks on Colab you need to install some required libraries. For example, to run the Word2Vec notebooks, add a cell with these commands:
@@ -22,8 +55,8 @@ Some notebooks run you can on Google Colab for computational reasons:
 
 ### Language Models Notebooks
 
-- Pretrained Language Models: GPT-2 and BERT [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/dev/Sessions/5d-PLMs.ipynb) 
-- Large Language Models: BLOOM and ChatGPT [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/dev/Sessions/5e-LLMs.ipynb) 
+- Pretrained Language Models: GPT-2 and BERT [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/lms/Sessions/5d-PLMs.ipynb) 
+- Large Language Models: BLOOM and ChatGPT [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/lms/Sessions/5e-LLMs.ipynb) 
 
 ## Local installation
 
