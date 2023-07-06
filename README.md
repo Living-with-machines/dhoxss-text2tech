@@ -39,7 +39,7 @@ Some notebooks run you can on Google Colab for computational reasons:
 - Working with XML [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/colab/Sessions/3c-Reading-XML-files.ipynb)
 
 
-
+### Day 5
 ### Word2Vec Notebooks
 
 **Note:** To run notebooks on Colab you need to install some required libraries. For example, to run the Word2Vec notebooks, add a cell with these commands:
@@ -55,8 +55,8 @@ Some notebooks run you can on Google Colab for computational reasons:
 
 ### Language Models Notebooks
 
-- Pretrained Language Models: GPT-2 and BERT [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/dev/Sessions/5d-PLMs.ipynb) 
-- Large Language Models: BLOOM and ChatGPT [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/dev/Sessions/5e-LLMs.ipynb) 
+- Pretrained Language Models: GPT-2 and BERT [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/lms/Sessions/5d-PLMs.ipynb) 
+- Large Language Models: BLOOM and ChatGPT [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/lms/Sessions/5e-LLMs.ipynb) 
 
 ## Local installation
 
