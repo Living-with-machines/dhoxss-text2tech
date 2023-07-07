@@ -7,6 +7,10 @@ The workshop will mostly rely on [![Binder](https://mybinder.org/badge_logo.svg)
 
 Some notebooks run you can on Google Colab for computational reasons:
 
+### LM and Word2Vec Presentation
+
+Link to [slides](https://docs.google.com/presentation/d/1i56HKtjcdQFTxacxsjgya_giDx8Mv1xZn-IDNc_mK8I/edit?usp=sharing)
+
 ### Word2Vec Notebooks
 
 **Note:** To run notebooks on Colab you need to install some required libraries. For example, to run the Word2Vec notebooks, add a cell with these commands:
