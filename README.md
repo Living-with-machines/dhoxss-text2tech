@@ -26,8 +26,8 @@ Link to [slides](https://docs.google.com/presentation/d/1i56HKtjcdQFTxacxsjgya_g
 
 ### Language Models Notebooks
 
-- Pretrained Language Models: GPT-2 and BERT [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/dev/Sessions/5d-PLMs.ipynb) 
-- Large Language Models: BLOOM and ChatGPT [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/dev/Sessions/5e-LLMs.ipynb) 
+- Pretrained Language Models: GPT-2 and BERT [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/lms/Sessions/5d-PLMs.ipynb) 
+- Large Language Models: BLOOM and ChatGPT [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/lms/Sessions/5e-LLMs.ipynb) 
 
 ## Local installation
 
