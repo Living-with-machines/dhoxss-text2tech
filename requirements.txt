@@ -4,7 +4,7 @@ matplotlib==3.5.2
 numpy>=1.20.1
 pandas>=1.2.4
 requests>=2.25.1
-scikit-learn==1.1.1
+scikit-learn==1.5.0
 scipy>=1.6.2
 spacy>=3.3.1
 spacy_stanza==1.0.2
