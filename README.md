@@ -1,13 +1,9 @@
 # DHOxSS - Text to Tech
 Materials for the Text to Tech workshop at the Digital Humanities Oxford Summer School
 
-## Binder & Colab
+## Google Colab
 
-The workshop will mostly rely on [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Living-with-machines/dhoxss-text2tech/dev) for the hands-on activities.
-
-Some notebooks run you can on Google Colab for computational reasons:
-
-### Colab
+The workshop will mostly rely on Google Colab for the hands-on activities.
 
 ## Day 1
 
@@ -39,7 +35,7 @@ Some notebooks run you can on Google Colab for computational reasons:
 - Working with XML [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/colab/Sessions/3c-Reading-XML-files.ipynb)
 
 
-### Day 5
+## Day 5
 
 ### LM and Word2Vec Presentation
 
