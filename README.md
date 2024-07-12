@@ -6,7 +6,7 @@ Materials for the Text to Tech workshop at the Digital Humanities Oxford Summer 
 The workshop will mostly rely on Google Colab for the hands-on activities.
 
 ## Day 1
-
+- [Welcome slides](https://docs.google.com/presentation/d/1u8c8vX32tPRolVjnBvK0NR8GTywHZLzIctbI4kS0al4/edit?usp=sharing)
 - Intro to Python (a) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/colab/Sessions/1a-Intro-to-Python.ipynb)
 - Intro to Python (b) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/colab/Sessions/1b-Intro-to-Python.ipynb)
 - Functions [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/colab/Sessions/1c-Functions.ipynb)
