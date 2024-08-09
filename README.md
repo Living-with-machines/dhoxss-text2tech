@@ -48,6 +48,8 @@ The workshop will mostly rely on Google Colab for the hands-on activities.
 
 ## Local installation
 
+Our entire course will be on Google Colab. If you want to set up the notebooks locally on your machine, these are the instructions. However bear in mind that some of the tools might not work well on certain ~~old~~ laptops (especially from Day 4 onwards).
+
 * Install [Anaconda](https://www.anaconda.com/)
 * Download the content of this repository and unzip
 * Open Anaconda Navigator
