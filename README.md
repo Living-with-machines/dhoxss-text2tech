@@ -1,5 +1,5 @@
 # DHOxSS - Text to Tech
-Materials for the Text to Tech workshop at the Digital Humanities Oxford Summer School
+Materials for the Text to Tech workshop at the Digital Humanities Oxford Summer School by [Kaspar von Beelen](https://www.sas.ac.uk/people/dr-kaspar-beelen), [Mariona Coll Ardanuy](https://www.turing.ac.uk/people/researchers/mariona-coll-ardanuy) and [Federico Nanni](https://www.turing.ac.uk/people/researchers/federico-nanni).
 
 ## Google Colab
 
