@@ -71,13 +71,9 @@ You find more detailed instructions [here](https://melaniewalsh.github.io/Intro-
 Datasets used:
 
 - The  `Living Machines atypical animacy dataset`, freely available [here](https://bl.iro.bl.uk/concern/datasets/323177af-6081-4e93-8aaf-7932ca4a390a?locale=en).
-
 - MuSe: The Musical Sentiment Dataset [Muse](https://www.kaggle.com/datasets/cakiki/muse-the-musical-sentiment-dataset)
-
 - A historical dataset on popular baby names  in the United States from 1880 onwards. Available [here](https://www.ssa.gov/OACT/babynames/limits.html).
-
 - A sample of British Library [19th Century Books](https://doi.org/10.21250/db14) collected from [here](https://huggingface.co/datasets/blbooks).
-
 - A sample of British Newspapers articles, digitized by [Heritage Made Digital](https://doi.org/10.23636/1163). 
 
 ## Background reading (optional):
@@ -109,3 +105,5 @@ This course is based upon many previous resources. Apart from the ones above:
 - [The Turing Way](https://the-turing-way.netlify.app/welcome)
 - [The Turing Digital Humanities & Research Software Engineering Summer School](https://github.com/alan-turing-institute/DH-RSE-Summer-School)
 - Fede's [Computational Text Analysis](https://federiconannidotcom.wordpress.com/computational-text-analysis/) Course
+
+Resources mentioned during the workshop: [slides](https://docs.google.com/presentation/d/1GiFedCghUPDdVFGMpQ9xYpImG73uDDsvyA3HzZPT7U8/edit?usp=sharing)
