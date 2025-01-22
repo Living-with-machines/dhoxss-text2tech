@@ -1,0 +1,45 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+parts:
+  - caption: "Day 1: Introduction to Python"
+    chapters:
+      - file: sessions/1a-Intro-to-Python
+      - file: sessions/1b-Intro-to-Python
+      - file: sessions/1c-Intro-to-Python
+      - file: sessions/1d-Functions
+      - file: sessions/1d-Opening-files
+
+  - caption: "Day 2: Text Processing and Data Structures"
+    chapters:
+      - file: sessions/2a-Basic-text-processing
+      - file: sessions/2b-Lists-sets-and-tuples
+      - file: sessions/2c-Regular-expressions
+      - file: sessions/2d-Text-processing-exercises
+      - file: sessions/2e-Dictionaries-and-json
+      - file: sessions/2f-Data-structures-exercises
+
+  - caption: "Day 3: Working with Data"
+    chapters:
+      - file: sessions/3a-Libraries
+      - file: sessions/3b-Working-with-tabular-data
+      - file: sessions/3c-Reading-XML-files
+      - file: sessions/3d-Info-Retrieval-Exercise
+
+  - caption: "Day 4: Introduction to NLP"
+    chapters:
+      - file: sessions/4a-Intro-to-NLP
+      - file: sessions/4b-Intro-to-NLP
+      - file: sessions/4c-Intro-to-NLP
+      - file: sessions/4d-Intro-to-NLP
+      - file: sessions/4e-Topic-modeling
+
+  - caption: "Day 5: Advanced NLP and LLMs"
+    chapters:
+      - file: sessions/5a-word2vec-exploring
+      - file: sessions/5b-word2vec-training
+      - file: sessions/5c-Transformers-for-NLP
+      - file: sessions/5d-Poking-LLMs-with-HF
+      - file: sessions/5e-ollama

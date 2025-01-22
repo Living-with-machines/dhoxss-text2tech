@@ -129,8 +129,9 @@ dmypy.json
 .pyre/
 
 #Data folder
-Sessions/data/*
-Sessions/*.zip
+thecourse/sessions/*.zip
 .DS_Store
-Sessions/.DS_Store
-Sessions/models/*
+thecourse/sessions/.DS_Store
+thecourse/sessions/models/*
+thecourse/sessions/data/*
+thecourse/_build/*
