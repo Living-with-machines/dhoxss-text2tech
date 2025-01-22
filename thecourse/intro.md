@@ -1,12 +1,147 @@
-# Welcome to your Jupyter Book
+# Welcome!
 
-This is a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
+Welcome to **From Text to Tech**, developed by Kaspar Von Beelen, Mariona Coll Ardanuy and Federico Nanni.
 
-Check out the content pages bundled with this sample book to see more.
+## Course materials
 
-```{tableofcontents}
+This free and open course is primarily the jupyter book you're reading. You can work through the material by yourself following the [syllabus](#syllabus).
 
-```
+Some tips on **how to use this course**:
+
+- You will get a lot out of simply reading the online course book. However, the
+  course is built by executable jupyter notebooks that you can run them yourself, on Google Colab (see the [links in the syllabus](#syllabus)) or on your own laptop (see the [local installation](#local-installation) section).
+
+- If you are a self-learner and have questions, comments, ideas or issues please
+  open an issue here: [Issues](https://github.com/Living-with-machines/dhoxss-text2tech/issues)
+
+- We teach a synchronous version of this course every Summer at the Digital Humanities Oxford Summer School, where modules are spread over five full days.
+
+## Syllabus
+
+### Day 1
+
+- [Welcome slides](https://docs.google.com/presentation/d/1u8c8vX32tPRolVjnBvK0NR8GTywHZLzIctbI4kS0al4/edit?usp=sharing)
+- Intro to Python (a) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/dev/Sessions/1a-Intro-to-Python.ipynb)
+- Intro to Python (b) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/dev/Sessions/1b-Intro-to-Python.ipynb)
+- Intro to Python (c) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/dev/Sessions/1c-Intro-to-Python.ipynb)
+- Functions [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/dev/Sessions/1d-Functions.ipynb)
+
+### Day 2
+
+- Opening Files [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/dev/Sessions/1d-Opening-files.ipynb)
+- Basic Text Processing [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/dev/Sessions/2a-Basic-text-processing.ipynb)
+- Regular Expressions [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/dev/Sessions/2c-Regular-expressions.ipynb)
+- List, sets and tuples [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/dev/Sessions/2b-Lists-sets-and-tuples.ipynb)
+- Dictionaries and JSON [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/dev/Sessions/2e-Dictionaries-and-json.ipynb)
+- Text Processing Exercises [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/dev/Sessions/2d-Text-processing-exercises.ipynb)
+- Data Structures Exercises [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/dev/Sessions/2f-Data-structures-exercises.ipynb)
+
+### Day 3
+
+- Libraries [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/dev/Sessions/3a-Libraries.ipynb)
+- Working with tabular data [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/dev/Sessions/3b-Working-with-tabular-data.ipynb)
+- Exercises on Information Retrieval [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/dev/Sessions/3d-Info-Retrieval-Exercise.ipynb)
+
+### Day 4
+
+- Introduction to Machine Learning for NLP: [slides](https://docs.google.com/presentation/d/1XnARqcmMiFCv3_yurD4SZxfqEZ5l4gYY/edit?usp=sharing&ouid=110048370609112380558&rtpof=true&sd=true)
+- Intro to NLP (1) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/dev/Sessions/4a-Intro-to-NLP.ipynb)
+- Intro to NLP (2) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/dev/Sessions/4b-Intro-to-NLP.ipynb)
+- Intro to NLP (3) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/dev/Sessions/4c-Intro-to-NLP.ipynb)
+- Intro to NLP (4) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/dev/Sessions/4d-Intro-to-NLP.ipynb)
+- Introduction to Language Modelling: [slides](https://docs.google.com/presentation/d/1NpqtzSmjNTPVlSICn0D7zKWipbagKcjgn2WWAi_ZcfU/edit?usp=sharing)
+- Word embeddings (1) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/dev/Sessions/5a-word2vec-exploring.ipynb)
+- Word embeddings (2) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/dev/Sessions/5b-word2vec-training.ipynb)
+
+### Day 5
+
+- Introduction to Foundation Models and Transfer Learning: [slides](https://docs.google.com/presentation/d/1GjxvtL18R-_W8nkYcXk3AmkT9JT-DLFqO_twpCoFI-A/edit?usp=sharing)
+- Transformers for NLP [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/dev/Sessions/5b-Transformers-for-NLP.ipynb)
+- Introduction to Generative AI: [slides](https://docs.google.com/presentation/d/11iO6VpBTUaIRALvqqGUWHh_eIOIuiP6a-PAqkUWovSw/edit?usp=sharing)
+- Poking LLMs with HuggingFace [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/dev/Sessions/5e-Poking-LLMs-with-HF.ipynb)
+- Using local LLMs [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/dev/Sessions/5g-ollama.ipynb)
+
+## Local installation
+
+Our entire course will be on Google Colab. If you want to set up the notebooks locally on your machine, these are the instructions. However bear in mind that some of the tools might not work well on certain ~~old~~ laptops (especially from Day 4 onwards).
+
+- Install [Anaconda](https://www.anaconda.com/)
+- Download the content of this repository and unzip
+- Open Anaconda Navigator
+- From Anaconda, create environment py39
+- Install JupyterLab in environment
+- Launch JupyterLab
+- Open terminal in Jupyter Lab
+- Write the following in the terminal, step-by-step:
+  _ `conda activate py39`
+  _ Update pip: `pip install --upgrade pip`
+  _ Change directory using the `cd` command in the terminal until you are in the course folder. There you should run: `pip install -r requirements.txt`
+  _ Add the environment to Jupyter (following instructions from here) or by running `ipython kernel install --user --name=py39`
+  Then you can already start using the notebooks: select as kernel `py39` (restart JupyterLab if the correct kernel does not show)
+
+You find more detailed instructions [here](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/01-Install-Python.html).
+
+## Data
+
+Datasets used:
+
+- The `Living Machines atypical animacy dataset`, freely available [here](https://bl.iro.bl.uk/concern/datasets/323177af-6081-4e93-8aaf-7932ca4a390a?locale=en).
+- MuSe: The Musical Sentiment Dataset [Muse](https://www.kaggle.com/datasets/cakiki/muse-the-musical-sentiment-dataset)
+- A historical dataset on popular baby names in the United States from 1880 onwards. Available [here](https://www.ssa.gov/OACT/babynames/limits.html).
+- A sample of British Library [19th Century Books](https://doi.org/10.21250/db14) collected from [here](https://huggingface.co/datasets/blbooks).
+- A sample of British Newspapers articles, digitized by [Heritage Made Digital](https://doi.org/10.23636/1163).
+
+## Background reading (optional):
+
+- Walsh, Melanie. Introduction to Cultural Analytics & Python, https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome
+- Karsdorp, Folgert. Python Programming for Humanists. http://www.karsdorp.io/python-course/.
+- Montfort, Nick. Exploratory Programming for the Arts and Humanities. Cambridge, Massachusetts: The MIT Press, 2016. https://mitpress.mit.edu/books/exploratory-programming-arts-and-humanities.
+- Sinclair, Stéfan, and Geoffrey Rockwell. The Art of Literary Text Analysis. Melissa Mony., 2016. https://github.com/sgsinclair/alta/blob/77b256f7c3ff3ceb6643d53da401096c8cdcc468/ipynb/ArtOfLiteraryTextAnalysis.ipynb.
+- Graham, Shawn, Ian Milligan, Scott Weingart. The Historian's Macroscope. Under contract with Imperial College Press. Open Draft Version, Autumn 2013, http://themacroscope.org
+- Downey, Allen, Peter Wentworth, Jeffrey Elkner, and Chris Meyers. “How To Think Like A Computer Scientist: Learning with Python 3.” (2016).
+- Karsdorp, Folgert, Mike Kestemont and Allen Riddell, Humanities Data Analysis: Case Studies with Python, https://www.humanitiesdataanalysis.org
+
+## Advanced reading list (optional):
+
+- Jurafsky, Daniel, and J. H. Martin. "Vector semantics and embeddings." Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition (2019): 94-122. https://web.stanford.edu/~jurafsky/slp3/6.pdfLinks to an external site.
+- Smith, Noah A. "Contextual word representations: A contextual introduction." arXiv preprint arXiv:1902.06006 (2019). https://arxiv.org/pdf/1902.06006.pdfLinks to an external site.
+- Boleda, Gemma. "Distributional semantics and linguistic theory." Annual Review of Linguistics 6 (2020): 213-234. https://arxiv.org/pdf/1905.01896.pdfLinks to an external site.
+- Rogers, Anna. "Changing the World by Changing the Data." arXiv preprint arXiv:2105.13947 (2021). https://arxiv.org/pdf/2105.13947.pdfLinks to an external site.
+- Wevers, Melvin, and Marijn Koolen. "Digital begriffsgeschichte: Tracing semantic change using word embeddings." Historical Methods: A Journal of Quantitative and Interdisciplinary History 53, no. 4 (2020): 226-243. https://www.tandfonline.com/doi/pdf/10.1080/01615440.2020.1760157Links to an external site.
+- Bender, Emily M., and Alexander Koller. "Climbing towards NLU: On meaning, form, and understanding in the age of data." In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics, pp. 5185-5198. 2020. https://www.aclweb.org/anthology/2020.acl-main.463.pdfLinks to an external site.
+- Grimmer, Justin, Margaret E. Roberts, and Brandon M. Stewart. "Text as data: A new framework for machine learning and the social sciences." Princeton University Press, 2022. https://press.princeton.edu/books/paperback/9780691207551/text-as-data
+
+## Python resources
+
+This is a beginner course in Python and we do not expect any previous knowledge on such topic or programming in general. If you feel more comfortable having an initial overview of Python, we suggest:
+
+- The [Introduction to Python](https://alan-turing-institute.github.io/rse-course/html/module01_introduction_to_python/index.html) module from the Turing's Research Software Engineering.
+- Software Carpentry's [Programming with Python](https://swcarpentry.github.io/python-novice-inflammation/).
+- For basic knowledge of Git for version control, the Software Carpentry’s [Version Control with Git](https://swcarpentry.github.io/git-novice/) (Sections 1 to 4 and 7 to 9).
+- For basic knowledge of using Github for collaboration, see the first two sections of the Turing Way’s Guide for Collaboration ([Getting Started in GitHub](https://the-turing-way.netlify.app/collaboration/github-novice.html) and [Maintainers and Reviewers in GitHub](https://the-turing-way.netlify.app/collaboration/maintain-review.html)).
+
+## Disclaimer
+
+The work and materials here are developed by a group of researchers from a diverse background. Many of the topics,
+examples and discussed work here is biased against our own experiences. As such,
+our definitions and understandings of certain words, phrases, or methodologies used
+may differ from others'. We do not claim to be a definitive authority, and
+welcome open discussion and feedback.
+
+## Acknowledgements
+
+This course is based upon many previous resources. Apart from the ones already mentioned above:
+
+- Nilo Pedrazzini's introduction notebook to Word2Vec.
+- Materials from previous editions of this course, written by Barbara McGillivray and Gard Jenset
+- The Turing's [Research Software Engineering](https://alan-turing-institute.github.io/rse-course/html/index.html) and [Research Data Science](https://alan-turing-institute.github.io/rds-course/index.html) Courses
+- [The Turing Way](https://the-turing-way.netlify.app/welcome)
+- [The Turing Digital Humanities & Research Software Engineering Summer School](https://github.com/alan-turing-institute/DH-RSE-Summer-School)
+- Fede's [Computational Text Analysis](https://federiconannidotcom.wordpress.com/computational-text-analysis/) Course
+
+We developed together the first version of this module in 2020, while working together on the project [Living with Machines](https://livingwithmachines.ac.uk/). This project, funded by the UK
+Research and Innovation (UKRI) Strategic Priority Fund, is a multidisciplinary collaboration
+delivered by the Arts and Humanities Research Council (AHRC grant AH/S01179X/1), with
+The Alan Turing Institute, the British Library and the Universities of Cambridge, East Anglia,
+Exeter, and Queen Mary University of London. This work was also supported by The Alan
+Turing Institute (EPSRC grant EP/N510129/1).
