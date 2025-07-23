@@ -30,17 +30,17 @@ The workshop will mostly rely on Google Colab for the hands-on activities.
 ## Day 4
 
 - Introduction to Machine Learning for NLP: [slides](https://docs.google.com/presentation/d/1XnARqcmMiFCv3_yurD4SZxfqEZ5l4gYY/edit?usp=sharing&ouid=110048370609112380558&rtpof=true&sd=true)
+- Introduction to Language Modelling: [slides](https://docs.google.com/presentation/d/1NpqtzSmjNTPVlSICn0D7zKWipbagKcjgn2WWAi_ZcfU/edit?usp=sharing)
+- Word embeddings (1) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/dev/Sessions/5a-word2vec-exploring.ipynb)
+- Word embeddings (2) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/dev/Sessions/5b-word2vec-training.ipynb)
+- Introduction to Foundation Models and Transfer Learning: [slides](https://docs.google.com/presentation/d/1GjxvtL18R-_W8nkYcXk3AmkT9JT-DLFqO_twpCoFI-A/edit?usp=sharing)
 - Intro to NLP (1) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/dev/Sessions/4a-Intro-to-NLP.ipynb)
 - Intro to NLP (2) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/dev/Sessions/4b-Intro-to-NLP.ipynb)
 - Intro to NLP (3) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/dev/Sessions/4c-Intro-to-NLP.ipynb)
 - Intro to NLP (4) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/dev/Sessions/4d-Intro-to-NLP.ipynb)
-- Introduction to Language Modelling: [slides](https://docs.google.com/presentation/d/1NpqtzSmjNTPVlSICn0D7zKWipbagKcjgn2WWAi_ZcfU/edit?usp=sharing)
-- Word embeddings (1) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/dev/Sessions/5a-word2vec-exploring.ipynb)
-- Word embeddings (2) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/dev/Sessions/5b-word2vec-training.ipynb)
 
 ## Day 5
 
-- Introduction to Foundation Models and Transfer Learning: [slides](https://docs.google.com/presentation/d/1GjxvtL18R-_W8nkYcXk3AmkT9JT-DLFqO_twpCoFI-A/edit?usp=sharing)
 - Transformers for NLP [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/dev/Sessions/5b-Transformers-for-NLP.ipynb)
 - Introduction to Generative AI: [slides](https://docs.google.com/presentation/d/11iO6VpBTUaIRALvqqGUWHh_eIOIuiP6a-PAqkUWovSw/edit?usp=sharing)
 - Poking LLMs with HuggingFace [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/dev/Sessions/5e-Poking-LLMs-with-HF.ipynb)
