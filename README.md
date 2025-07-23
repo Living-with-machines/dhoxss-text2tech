@@ -24,7 +24,14 @@ The workshop will mostly rely on Google Colab for the hands-on activities.
 ## Day 3
 
 - Libraries [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/dev/Sessions/3a-Libraries.ipynb)
-- Working with tabular data [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/dev/Sessions/3b-Working-with-tabular-data.ipynb)
+
+#### Pandazzz
+- Introduction to Pandas [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/pandas/Sessions/3b-Pandas-Intro.ipynb)
+- Tabular Data and DataFrames [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/pandas/Sessions/3c-DataFrames.ipynb)
+- Interrogating DataFrames [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/pandas/Sessions/3d-Analyse-DataFrames.ipynb)
+- Working with Text in Pandas [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/pandas/Sessions/3e-Analysing-Text-Data.ipynb)
+- Aggregating and Plotting Data [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/pandas/Sessions/3f-Aggragating-Dataipynb)
+
 - Exercises on Information Retrieval [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/dev/Sessions/3d-Info-Retrieval-Exercise.ipynb)
 
 ## Day 4
