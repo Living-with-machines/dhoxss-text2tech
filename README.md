@@ -23,6 +23,8 @@ The workshop will mostly rely on Google Colab for the hands-on activities.
 
 ## Day 3
 
+#### Libraries
+
 - Libraries [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/dev/Sessions/3a-Libraries.ipynb)
 
 #### Pandazzz
@@ -31,6 +33,8 @@ The workshop will mostly rely on Google Colab for the hands-on activities.
 - Interrogating DataFrames [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/pandas/Sessions/3d-Analyse-DataFrames.ipynb)
 - Working with Text in Pandas [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/pandas/Sessions/3e-Analysing-Text-Data.ipynb)
 - Aggregating and Plotting Data [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/pandas/Sessions/3f-Aggragating-Data.ipynb)
+
+#### Information Retrieval
 
 - Exercises on Information Retrieval [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/dev/Sessions/3d-Info-Retrieval-Exercise.ipynb)
 
