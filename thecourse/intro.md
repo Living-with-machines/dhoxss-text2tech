@@ -1,20 +1,18 @@
-# Welcome!
+# From Text to Tech
 
 Welcome to **From Text to Tech**, developed by Kaspar Von Beelen, Mariona Coll Ardanuy and Federico Nanni.
 
-## Course materials
+This is a free and open coursebook introducing Natural Language Processing and Python. You can work through the material by yourself following the [syllabus](#syllabus).
 
-This free and open course is primarily the jupyter book you're reading. You can work through the material by yourself following the [syllabus](#syllabus).
+Some tips on **how to use this book**:
 
-Some tips on **how to use this course**:
-
-- You will get a lot out of simply reading the online course book. However, the
+- You will get a lot out of simply reading this online jupyter book version. However, the
   course is built by executable jupyter notebooks that you can run them yourself, on Google Colab (see the [links in the syllabus](#syllabus)) or on your own laptop (see the [local installation](#local-installation) section).
 
 - If you are a self-learner and have questions, comments, ideas or issues please
   open an issue here: [Issues](https://github.com/Living-with-machines/dhoxss-text2tech/issues)
 
-- We teach a synchronous version of this course every Summer at the Digital Humanities Oxford Summer School, where modules are spread over five full days.
+- We teach a synchronous version of this course every Summer at the Digital Humanities Oxford Summer School, where modules are spread over five full days (as highlighted in the syllabus).
 
 ## Syllabus
 
@@ -91,7 +89,8 @@ Datasets used:
 - A sample of British Library [19th Century Books](https://doi.org/10.21250/db14) collected from [here](https://huggingface.co/datasets/blbooks).
 - A sample of British Newspapers articles, digitized by [Heritage Made Digital](https://doi.org/10.23636/1163).
 
-## Background reading (optional):
+## Additional resources
+### Background reading (optional):
 
 - Walsh, Melanie. Introduction to Cultural Analytics & Python, https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome
 - Karsdorp, Folgert. Python Programming for Humanists. http://www.karsdorp.io/python-course/.
@@ -101,7 +100,7 @@ Datasets used:
 - Downey, Allen, Peter Wentworth, Jeffrey Elkner, and Chris Meyers. “How To Think Like A Computer Scientist: Learning with Python 3.” (2016).
 - Karsdorp, Folgert, Mike Kestemont and Allen Riddell, Humanities Data Analysis: Case Studies with Python, https://www.humanitiesdataanalysis.org
 
-## Advanced reading list (optional):
+### Advanced reading list (optional):
 
 - Jurafsky, Daniel, and J. H. Martin. "Vector semantics and embeddings." Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition (2019): 94-122. https://web.stanford.edu/~jurafsky/slp3/6.pdfLinks to an external site.
 - Smith, Noah A. "Contextual word representations: A contextual introduction." arXiv preprint arXiv:1902.06006 (2019). https://arxiv.org/pdf/1902.06006.pdfLinks to an external site.
@@ -111,7 +110,7 @@ Datasets used:
 - Bender, Emily M., and Alexander Koller. "Climbing towards NLU: On meaning, form, and understanding in the age of data." In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics, pp. 5185-5198. 2020. https://www.aclweb.org/anthology/2020.acl-main.463.pdfLinks to an external site.
 - Grimmer, Justin, Margaret E. Roberts, and Brandon M. Stewart. "Text as data: A new framework for machine learning and the social sciences." Princeton University Press, 2022. https://press.princeton.edu/books/paperback/9780691207551/text-as-data
 
-## Python resources
+### Python resources
 
 This is a beginner course in Python and we do not expect any previous knowledge on such topic or programming in general. If you feel more comfortable having an initial overview of Python, we suggest:
 
