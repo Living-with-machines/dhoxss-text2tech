@@ -39,7 +39,7 @@ The workshop will mostly rely on Google Colab for the hands-on activities.
 
 ### Information Retrieval
 
-- Exercises on Information Retrieval [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/dev/Sessions/3d-Info-Retrieval-Exercise.ipynb)
+- Exercises on Information Retrieval [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/dev/Sessions/3g-Info-Retrieval-Exercise.ipynb)
 
 ## Day 4
 
