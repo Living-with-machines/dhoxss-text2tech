@@ -3,7 +3,7 @@ Materials for the Text to Tech workshop at the Digital Humanities Oxford Summer 
 
 ## Google Colab
 
-The workshop will mostly rely on Google Colab for the hands-on activities.
+The workshop will mostly rely on [Google Colab](https://colab.research.google.com/) for the hands-on activities.
 
 ## Day 1
 - [Welcome slides](https://docs.google.com/presentation/d/1u8c8vX32tPRolVjnBvK0NR8GTywHZLzIctbI4kS0al4/edit?usp=sharing)
@@ -48,10 +48,10 @@ The workshop will mostly rely on Google Colab for the hands-on activities.
 - Word embeddings (1) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/dev/Sessions/5a-word2vec-exploring.ipynb)
 - Word embeddings (2) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/dev/Sessions/5b-word2vec-training.ipynb)
 - Introduction to Large Language Models and Transfer Learning: [slides](https://docs.google.com/presentation/d/1GjxvtL18R-_W8nkYcXk3AmkT9JT-DLFqO_twpCoFI-A/edit?usp=sharing)
-- Intro to NLP (1) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/dev/Sessions/4a-Intro-to-NLP.ipynb)
-- Intro to NLP (2) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/dev/Sessions/4b-Intro-to-NLP.ipynb)
-- Intro to NLP (3) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/dev/Sessions/4c-Intro-to-NLP.ipynb)
-- Intro to NLP (4) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/dev/Sessions/4d-Intro-to-NLP.ipynb)
+- Intro to NLP with SpaCy (1) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/dev/Sessions/4a-Intro-to-NLP.ipynb)
+- Intro to NLP with SpaCy (2) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/dev/Sessions/4b-Intro-to-NLP.ipynb)
+- Intro to NLP with SpaCy (3) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/dev/Sessions/4c-Intro-to-NLP.ipynb)
+- Intro to NLP with SpaCy (4) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/dev/Sessions/4d-Intro-to-NLP.ipynb)
 
 ## Day 5
 
