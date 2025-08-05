@@ -57,7 +57,8 @@ The workshop will mostly rely on Google Colab for the hands-on activities.
 
 - Transformers for NLP [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/dev/Sessions/5b-Transformers-for-NLP.ipynb)
 - Introduction to Generative AI: [slides](https://docs.google.com/presentation/d/11iO6VpBTUaIRALvqqGUWHh_eIOIuiP6a-PAqkUWovSw/edit?usp=sharing)
-- Poking LLMs with HuggingFace [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/dev/Sessions/5e-Poking-LLMs-with-HF.ipynb)
+- Language Models as Models of Language [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/dev/Sessions/5e_Models_of_Language.ipynb)
+- LLMs as Research Assistants [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/dev/Sessions/5e_LLMs_as_Research_Assistants.ipynb)
 - Using local LLMs [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/dev/Sessions/5g-ollama.ipynb)
 
 ## Local installation
