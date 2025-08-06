@@ -44,7 +44,7 @@ The workshop will mostly rely on [Google Colab](https://colab.research.google.co
 ## Day 4
 
 - Introduction to Machine Learning for NLP: [slides](https://docs.google.com/presentation/d/1XnARqcmMiFCv3_yurD4SZxfqEZ5l4gYY/edit?usp=sharing&ouid=110048370609112380558&rtpof=true&sd=true)
-- Intro to NLP with SpaCy (1) [slides](https://docs.google.com/presentation/d/1v15RfrgbUc858m4c8SvU_Qw3JFSdaQXhA5lWD1xA-P0/edit?usp=sharing)
+- Intro to NLP with SpaCy (1): [slides](https://docs.google.com/presentation/d/1v15RfrgbUc858m4c8SvU_Qw3JFSdaQXhA5lWD1xA-P0/edit?usp=sharing)
 - Intro to NLP with SpaCy (2) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/dev/Sessions/4b-Intro-to-NLP.ipynb)
 - Intro to NLP with SpaCy (3) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/dev/Sessions/4c-Intro-to-NLP.ipynb)
 - Intro to NLP with SpaCy (4) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/dev/Sessions/4d-Intro-to-NLP.ipynb)
@@ -58,7 +58,7 @@ The workshop will mostly rely on [Google Colab](https://colab.research.google.co
 - Transformers for NLP [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/dev/Sessions/5b-Transformers-for-NLP.ipynb)
 - Introduction to Generative AI: [slides](https://docs.google.com/presentation/d/11iO6VpBTUaIRALvqqGUWHh_eIOIuiP6a-PAqkUWovSw/edit?usp=sharing)
 - Poking LLMs with HuggingFace [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/dev/Sessions/5e-Poking-LLMs-with-HF.ipynb)
-- Using local LLMs [slides](https://docs.google.com/presentation/d/10er_bs1rNMidXHPM-CDdmMcvo70yXuMvPJ-v3-nqGkw/edit?usp=sharing)
+- Using local LLMs: [slides](https://docs.google.com/presentation/d/10er_bs1rNMidXHPM-CDdmMcvo70yXuMvPJ-v3-nqGkw/edit?usp=sharing)
 
 ## Local installation
 
