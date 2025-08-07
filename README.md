@@ -3,7 +3,7 @@ Materials for the Text to Tech workshop at the Digital Humanities Oxford Summer 
 
 ## Google Colab
 
-The workshop will mostly rely on Google Colab for the hands-on activities.
+The workshop will mostly rely on [Google Colab](https://colab.research.google.com/) for the hands-on activities.
 
 ## Day 1
 - [Welcome slides](https://docs.google.com/presentation/d/1u8c8vX32tPRolVjnBvK0NR8GTywHZLzIctbI4kS0al4/edit?usp=sharing)
@@ -27,11 +27,11 @@ The workshop will mostly rely on Google Colab for the hands-on activities.
 ## Day 3
 
 ### Pandas
-- Introduction to Pandas [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/pandas/Sessions/3b-Pandas-Intro.ipynb)
-- Tabular Data and DataFrames [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/pandas/Sessions/3c-DataFrames.ipynb)
-- Interrogating DataFrames [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/pandas/Sessions/3d-Analyse-DataFrames.ipynb)
-- Working with Text in Pandas [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/pandas/Sessions/3e-Analysing-Text-Data.ipynb)
-- Aggregating and Plotting Data [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/pandas/Sessions/3f-Aggragating-Data.ipynb)
+- Introduction to Pandas [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/dev/Sessions/3b-Pandas-Intro.ipynb)
+- Tabular Data and DataFrames [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/dev/Sessions/3c-DataFrames.ipynb)
+- Interrogating DataFrames [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/dev/Sessions/3d-Analyse-DataFrames.ipynb)
+- Working with Text in Pandas [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/dev/Sessions/3e-Analysing-Text-Data.ipynb)
+- Aggregating and Plotting Data [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/dev/Sessions/3f-Aggragating-Data.ipynb)
 
 ### Libraries
 
@@ -39,19 +39,19 @@ The workshop will mostly rely on Google Colab for the hands-on activities.
 
 ### Information Retrieval
 
-- Exercises on Information Retrieval [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/dev/Sessions/3d-Info-Retrieval-Exercise.ipynb)
+- Exercises on Information Retrieval [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/dev/Sessions/3g-Info-Retrieval-Exercise.ipynb)
 
 ## Day 4
 
 - Introduction to Machine Learning for NLP: [slides](https://docs.google.com/presentation/d/1XnARqcmMiFCv3_yurD4SZxfqEZ5l4gYY/edit?usp=sharing&ouid=110048370609112380558&rtpof=true&sd=true)
+- Intro to NLP with SpaCy (1): [slides](https://docs.google.com/presentation/d/1v15RfrgbUc858m4c8SvU_Qw3JFSdaQXhA5lWD1xA-P0/edit?usp=sharing)
+- Intro to NLP with SpaCy (2) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/dev/Sessions/4b-Intro-to-NLP.ipynb)
+- Intro to NLP with SpaCy (3) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/dev/Sessions/4c-Intro-to-NLP.ipynb)
+- Intro to NLP with SpaCy (4) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/dev/Sessions/4d-Intro-to-NLP.ipynb)
 - Introduction to Language Modelling: [slides](https://docs.google.com/presentation/d/1NpqtzSmjNTPVlSICn0D7zKWipbagKcjgn2WWAi_ZcfU/edit?usp=sharing)
 - Word embeddings (1) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/dev/Sessions/5a-word2vec-exploring.ipynb)
 - Word embeddings (2) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/dev/Sessions/5b-word2vec-training.ipynb)
 - Introduction to Large Language Models and Transfer Learning: [slides](https://docs.google.com/presentation/d/1GjxvtL18R-_W8nkYcXk3AmkT9JT-DLFqO_twpCoFI-A/edit?usp=sharing)
-- Intro to NLP (1) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/dev/Sessions/4a-Intro-to-NLP.ipynb)
-- Intro to NLP (2) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/dev/Sessions/4b-Intro-to-NLP.ipynb)
-- Intro to NLP (3) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/dev/Sessions/4c-Intro-to-NLP.ipynb)
-- Intro to NLP (4) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/dev/Sessions/4d-Intro-to-NLP.ipynb)
 
 ## Day 5
 
@@ -60,6 +60,7 @@ The workshop will mostly rely on Google Colab for the hands-on activities.
 - Language Models as Models of Language [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/dev/Sessions/5e_Models_of_Language.ipynb)
 - LLMs as Research Assistants [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/dev/Sessions/5e_LLMs_as_Research_Assistants.ipynb)
 - Using local LLMs [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/dev/Sessions/5g-ollama.ipynb)
+
 
 ## Local installation
 
