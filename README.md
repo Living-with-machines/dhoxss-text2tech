@@ -60,7 +60,7 @@ The workshop will mostly rely on [Google Colab](https://colab.research.google.co
 - Introduction to Generative AI: [slides](https://docs.google.com/presentation/d/11iO6VpBTUaIRALvqqGUWHh_eIOIuiP6a-PAqkUWovSw/edit?usp=sharing)
 - Language Models as Models of Language [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/dev/Sessions/5e_Models_of_Language.ipynb)
 - LLMs as Research Assistants [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/dev/Sessions/5e_LLMs_as_Research_Assistants.ipynb)
-- Using local LLMs [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/dev/Sessions/5g-ollama.ipynb)
+- Using local LLMs [slides](https://docs.google.com/presentation/d/10er_bs1rNMidXHPM-CDdmMcvo70yXuMvPJ-v3-nqGkw/edit?usp=sharing)
 
 
 ## Local installation
