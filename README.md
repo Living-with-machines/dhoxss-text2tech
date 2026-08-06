@@ -7,9 +7,9 @@ The workshop will mostly rely on [Google Colab](https://colab.research.google.co
 
 ## Day 1
 - [Welcome slides](https://docs.google.com/presentation/d/1u8c8vX32tPRolVjnBvK0NR8GTywHZLzIctbI4kS0al4/edit?usp=sharing)
-- Intro to Python (a) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/dev/Sessions/1a-Intro-to-Python.ipynb)
-- Intro to Python (b) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/dev/Sessions/1b-Intro-to-Python.ipynb)
-- Intro to Python (c) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/dev/Sessions/1c-Intro-to-Python.ipynb)
+- [Intro to the course](https://docs.google.com/presentation/d/1TEl_-BLgEyDZ6W69WMSaHzGN1f-UI75GAGa4gI_2wTw/edit?usp=sharing)
+- Intro to Python (a) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/dev/Sessions/1b-Intro-to-Python.ipynb)
+- Intro to Python (b) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/dev/Sessions/1c-Intro-to-Python.ipynb)
 - Functions [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/dev/Sessions/1d-Functions.ipynb)
 
 ## Day 2
