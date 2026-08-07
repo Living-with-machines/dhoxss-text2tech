@@ -134,3 +134,6 @@ Sessions/*.zip
 .DS_Store
 Sessions/.DS_Store
 Sessions/models/*
+
+# Poetry lockfile (regenerate locally with `poetry lock`)
+poetry.lock
