@@ -18,53 +18,60 @@ The workshop will mostly rely on [Google Colab](https://colab.research.google.co
 
 - Basic Text Processing [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/main/Sessions/2a-Basic-text-processing.ipynb)
 - Regular Expressions [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/main/Sessions/2c-Regular-expressions.ipynb)
-- Dictionaries and JSON [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/main/Sessions/2e-Dictionaries-and-json.ipynb)
+- Dictionaries and Bag of Words [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/main/Sessions/2e-Dictionaries-and-json.ipynb)
 - Information Retrieval: a search engine by hand [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/main/Sessions/2g-Information-Retrieval.ipynb)
 
 ### Exercises
 
-- Opening Files [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/main/Sessions/1d-Opening-files.ipynb)
 - Text Processing Exercises [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/main/Sessions/2d-Text-processing-exercises.ipynb)
 - Data Structures Exercises [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/main/Sessions/2f-Data-structures-exercises.ipynb)
 
+### Additional material
+
+- Opening Files [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/main/Sessions/1e-Opening-files.ipynb)
+- Lists, sets and tuples [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/main/Sessions/2b-Lists-sets-and-tuples.ipynb)
+
 ## Day 3
 
-### Pandas
 
-- Introduction to Pandas [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/main/Sessions/3b-Pandas-Intro.ipynb)
-- Tabular Data and DataFrames [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/main/Sessions/3c-DataFrames.ipynb)
-- Interrogating DataFrames [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/main/Sessions/3d-Analyse-DataFrames.ipynb)
-- Working with Text in Pandas [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/main/Sessions/3e-Analysing-Text-Data.ipynb)
-- Aggregating and Plotting Data [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/main/Sessions/3f-Aggragating-Data.ipynb)
+- Pandas: working with data at scale [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/main/Sessions/3b-Pandas.ipynb)
+- Introduction to Machine Learning: [slides](https://docs.google.com/presentation/d/1XnARqcmMiFCv3_yurD4SZxfqEZ5l4gYY/edit?usp=sharing&ouid=110048370609112380558&rtpof=true&sd=true)
+- Machine Learning: classifying book genres [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/main/Sessions/3c-Machine-Learning.ipynb)
+- Introduction to Language Modelling: [slides](https://docs.google.com/presentation/d/1NpqtzSmjNTPVlSICn0D7zKWipbagKcjgn2WWAi_ZcfU/edit?usp=sharing)
 
-### Libraries
+### Additional material
 
 - Libraries [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/main/Sessions/3a-Libraries.ipynb)
-
-### Information Retrieval
-
-- Exercises on Information Retrieval [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/main/Sessions/3g-Info-Retrieval-Exercise.ipynb)
+- Information Retrieval at scale (pandas + TF-IDF) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/main/Sessions/3d-Info-Retrieval.ipynb)
+- Why pandas?  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/main/Sessions/3i-Pandas-Intro.ipynb)
+- Pandas: tabular data and DataFrames [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/main/Sessions/3e-Pandas-DataFrames.ipynb)
+- Pandas: selecting and inspecting [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/main/Sessions/3f-Pandas-Selecting.ipynb)
+- Pandas: working with text [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/main/Sessions/3g-Pandas-Text.ipynb)
+- Pandas: aggregating and plotting [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/main/Sessions/3h-Pandas-Aggregating.ipynb)
+- Topic Modelling [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/main/Sessions/4e-Topic-modeling.ipynb)
 
 ## Day 4
 
-- Introduction to Machine Learning for NLP: [slides](https://docs.google.com/presentation/d/1XnARqcmMiFCv3_yurD4SZxfqEZ5l4gYY/edit?usp=sharing&ouid=110048370609112380558&rtpof=true&sd=true)
-- Intro to NLP with SpaCy (1): [slides](https://docs.google.com/presentation/d/1v15RfrgbUc858m4c8SvU_Qw3JFSdaQXhA5lWD1xA-P0/edit?usp=sharing)
-- Intro to NLP with SpaCy (2) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/main/Sessions/4b-Intro-to-NLP.ipynb)
-- Intro to NLP with SpaCy (3) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/main/Sessions/4c-Intro-to-NLP.ipynb)
-- Intro to NLP with SpaCy (4) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/main/Sessions/4d-Intro-to-NLP.ipynb)
-- Introduction to Language Modelling: [slides](https://docs.google.com/presentation/d/1NpqtzSmjNTPVlSICn0D7zKWipbagKcjgn2WWAi_ZcfU/edit?usp=sharing)
+Language modelling: from words as columns to words as vectors.
+
 - Introduction to Word2Vec: [slides](https://docs.google.com/presentation/d/1SRjgTcRzv6ydmm5cYjQFKy5SHTW5unytrsMHO8o-HZQ/edit?usp=sharing)
-- Word embeddings (1) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/main/Sessions/5a-word2vec-exploring.ipynb)
-- Word embeddings (2) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/main/Sessions/5b-word2vec-training.ipynb)
+- Word embeddings (1): exploring [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/main/Sessions/4a-word2vec-exploring.ipynb)
+- Word embeddings (2): training your own [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/main/Sessions/4b-word2vec-training.ipynb)
 - Introduction to Large Language Models and Transfer Learning: [slides](https://docs.google.com/presentation/d/1GjxvtL18R-_W8nkYcXk3AmkT9JT-DLFqO_twpCoFI-A/edit?usp=sharing)
+- Transformers for NLP [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/main/Sessions/4c-Transformers-for-NLP.ipynb)
+
+### Additional material
+
+- Intro to NLP with SpaCy: [slides](https://docs.google.com/presentation/d/1v15RfrgbUc858m4c8SvU_Qw3JFSdaQXhA5lWD1xA-P0/edit?usp=sharing)
+- Linguistic processing with spaCy [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/main/Sessions/4d-spaCy.ipynb)
 
 ## Day 5
 
-- Transformers for NLP [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/main/Sessions/5b-Transformers-for-NLP.ipynb)
 - Introduction to Generative AI: [slides](https://docs.google.com/presentation/d/11iO6VpBTUaIRALvqqGUWHh_eIOIuiP6a-PAqkUWovSw/edit?usp=sharing)
-- Language Models as Models of Language [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/main/Sessions/5e_Models_of_Language.ipynb)
-- LLMs as Research Assistants [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/main/Sessions/5e_LLMs_as_Research_Assistants.ipynb)
-- Using local LLMs [slides](https://docs.google.com/presentation/d/10er_bs1rNMidXHPM-CDdmMcvo70yXuMvPJ-v3-nqGkw/edit?usp=sharing)
+- Language Models as Models of Language [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/main/Sessions/5a-Models-of-Language.ipynb)
+- LLMs as Research Assistants [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/main/Sessions/5b-LLMs-as-Research-Assistants.ipynb)
+- Using local LLMs: [slides](https://docs.google.com/presentation/d/10er_bs1rNMidXHPM-CDdmMcvo70yXuMvPJ-v3-nqGkw/edit?usp=sharing)
+- Using local LLMs with ollama [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/main/Sessions/5c-ollama.ipynb)
 
 ## Local installation
 
@@ -95,6 +102,7 @@ Datasets used:
 - A historical dataset on popular baby names in the United States from 1880 onwards. Available [here](https://www.ssa.gov/OACT/babynames/limits.html).
 - A sample of British Library [19th Century Books](https://doi.org/10.21250/db14) collected from [here](https://huggingface.co/datasets/blbooks).
 - A sample of British Newspapers articles, digitized by [Heritage Made Digital](https://doi.org/10.23636/1163).
+- [British Library Books Genre](https://huggingface.co/datasets/TheBritishLibrary/blbooksgenre): 19th-century book metadata with crowdsourced Fiction / Non-fiction annotations ([DOI](https://doi.org/10.23636/BKHQ-0312)), used for the classification session on Day 3. Public Domain Mark 1.0.
 
 ## Background reading (optional):
 
