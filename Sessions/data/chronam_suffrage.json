@@ -1,0 +1,1397 @@
+{
+ "results": [
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/resource/sn89060379/1913-11-15/ed-1/?sp=3"
+   ],
+   "batch": [
+    "mdu_columbine_ver02"
+   ],
+   "campaigns": [],
+   "composite_location": [
+    "0/united states/",
+    "1/united states/maryland/",
+    "3/united states/maryland/baltimore/"
+   ],
+   "contributor": [
+    "university of maryland, college park, md"
+   ],
+   "date": "1913-11-15",
+   "dates": [
+    "1913-11-15"
+   ],
+   "description": [
+    "November 15 1913 BALTIMORE COUNTY Regular Monthly Meeting Held at Mt Washington The regular monthly meeting of the Just Government League of Bal timore County was held on November io at the residence of Mrs Town send Scott at Mt Washington It was reported that a large amount of literature was distributed at the polls on November 4 and that a quantity of it was placed in the leading stores postoffice and railroad station Plans were made for an evening meeting at the Casino some time during the month the purpose of whcih is to interest the workers in the Mt Washington mills At the close of the business meeting Miss Katherine McCormick who has done settlement work in Chicago gave a most interesting talk followed by some remarks from Dr Mary Sherwood Helen E Scott ELECTION DAY IN CENTERVILLE Distribution of Literature at Polls a Feature Election day was very quiet at Centerville although some little stir was noticeable when Miss L C Trax carrying a white canvas bag marked Votes for Women appeared on the bank corner and began distributing suffrage literature A small crowd soon collected and Miss Trax was kept busy answering questions and discussing the"
+   ],
+   "digitized": true,
+   "extract_timestamp": "2023-03-01T18:28:15.805Z",
+   "group": [
+    "ndnp/mdu",
+    "university-of-maryland-college-park-college-park-md-awardee"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/resource/sn89060379/1913-11-15/ed-1/?sp=3",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_columbine_ver02:data:sn89060379:print:1913111501:0003/full/pct:6.25/0/default.jpg#h=391&w=268",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_columbine_ver02:data:sn89060379:print:1913111501:0003/full/pct:12.5/0/default.jpg#h=782&w=536",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mdu/batch_mdu_columbine_ver02/data/sn89060379/print/1913111501/0003.xml&format=alto_xml"
+   ],
+   "index": 1,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "maryland",
+    "baltimore",
+    "united states"
+   ],
+   "location_city": [
+    "baltimore"
+   ],
+   "location_country": [
+    "united states"
+   ],
+   "location_state": [
+    "maryland"
+   ],
+   "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+   ],
+   "number": [
+    "sn89060379",
+    "1",
+    "0000000003"
+   ],
+   "number_edition": [
+    "1"
+   ],
+   "number_lccn": [
+    "sn89060379"
+   ],
+   "number_page": [
+    "0000000003"
+   ],
+   "online_format": [
+    "image",
+    "pdf",
+    "online text"
+   ],
+   "original_format": [
+    "newspaper"
+   ],
+   "page_id": "sn89060379-1913-11-15-ed-1-0003",
+   "partof": [
+    "serial and government publications division",
+    "maryland suffrage news (baltimore, md.) 1912-1920",
+    "chronicling america"
+   ],
+   "partof_collection": [
+    "chronicling america"
+   ],
+   "partof_division": [
+    "serial and government publications division"
+   ],
+   "partof_title": [
+    "maryland suffrage news (baltimore, md.) 1912-1920"
+   ],
+   "publication_frequency": [
+    "weekly"
+   ],
+   "resources": [
+    {
+     "files": 1,
+     "url": "https://www.loc.gov/resource/sn89060379/1913-11-15/ed-1/?sp=3"
+    }
+   ],
+   "segmentof": [
+    "http://www.loc.gov/resource/sn89060379/1913-11-15/ed-1/"
+   ],
+   "shelf_id": "3",
+   "site": [
+    "chroniclingamerica"
+   ],
+   "subject": [
+    "newspapers",
+    "baltimore (md.)",
+    "baltimore",
+    "women",
+    "suffrage",
+    "maryland",
+    "united states"
+   ],
+   "timestamp": "2023-03-07T03:14:05.466Z",
+   "title": "Image 3 of Maryland suffrage news (Baltimore, Md.), November 15, 1913",
+   "type": [
+    "segment"
+   ],
+   "url": "https://www.loc.gov/resource/sn89060379/1913-11-15/ed-1/?sp=3&q=suffrage",
+   "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmdu%2Fbatch_mdu_columbine_ver02%2Fdata%2Fsn89060379%2Fprint%2F1913111501%2F0003.xml&q=suffrage&relevant_snippet=1"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/resource/sn89060379/1917-04-28/ed-1/?sp=6"
+   ],
+   "batch": [
+    "mdu_columbine_ver02"
+   ],
+   "campaigns": [],
+   "composite_location": [
+    "0/united states/",
+    "1/united states/maryland/",
+    "3/united states/maryland/baltimore/"
+   ],
+   "contributor": [
+    "university of maryland, college park, md"
+   ],
+   "date": "1917-04-28",
+   "dates": [
+    "1917-04-28"
+   ],
+   "description": [
+    "30 BIG RHODE ISLAND YOU will never get a suffragist to call it Little Rhody again Little Rhody looms big on the suffrage map today First State in the Union east of the Alleghenies to give its women the right to vote for the President of the United States First State in the Union to recognize that woman suffrage is a war measure making for the effi ciency of State and nation in war time On April n the State Senate passed the Presidential suffrage measure by a vote of 32 to 3 On April 17 the House followed suit by a vote of 71 to 20 Rhode Islands struggle for Presidential suffrage goes back to 1892 That year a Presidential suffrage measure was submitted but not re ported It was not until 1902 that Presidential suffrage again got the attention of the Rhode Island Legislature Between 1902 and 1917 the measure was up approximately one dozen times every year in fact except 1903 1906 and 1913 Great credit is due Governor Beeckman for the growth of suffrage sentiment during this legislative session He has distinguished himself as a suffragist by a strong advocacy of votes for women He promptly"
+   ],
+   "digitized": true,
+   "extract_timestamp": "2023-03-01T18:28:16.874Z",
+   "group": [
+    "ndnp/mdu",
+    "university-of-maryland-college-park-college-park-md-awardee"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/resource/sn89060379/1917-04-28/ed-1/?sp=6",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_columbine_ver02:data:sn89060379:print:1917042801:0006/full/pct:6.25/0/default.jpg#h=343&w=261",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_columbine_ver02:data:sn89060379:print:1917042801:0006/full/pct:12.5/0/default.jpg#h=687&w=522",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mdu/batch_mdu_columbine_ver02/data/sn89060379/print/1917042801/0006.xml&format=alto_xml"
+   ],
+   "index": 2,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "maryland",
+    "baltimore",
+    "united states"
+   ],
+   "location_city": [
+    "baltimore"
+   ],
+   "location_country": [
+    "united states"
+   ],
+   "location_state": [
+    "maryland"
+   ],
+   "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+   ],
+   "number": [
+    "0000000006",
+    "1",
+    "sn89060379"
+   ],
+   "number_edition": [
+    "1"
+   ],
+   "number_lccn": [
+    "sn89060379"
+   ],
+   "number_page": [
+    "0000000006"
+   ],
+   "online_format": [
+    "image",
+    "pdf",
+    "online text"
+   ],
+   "original_format": [
+    "newspaper"
+   ],
+   "page_id": "sn89060379-1917-04-28-ed-1-0006",
+   "partof": [
+    "serial and government publications division",
+    "maryland suffrage news (baltimore, md.) 1912-1920",
+    "chronicling america"
+   ],
+   "partof_collection": [
+    "chronicling america"
+   ],
+   "partof_division": [
+    "serial and government publications division"
+   ],
+   "partof_title": [
+    "maryland suffrage news (baltimore, md.) 1912-1920"
+   ],
+   "publication_frequency": [
+    "weekly"
+   ],
+   "resources": [
+    {
+     "files": 1,
+     "url": "https://www.loc.gov/resource/sn89060379/1917-04-28/ed-1/?sp=6"
+    }
+   ],
+   "segmentof": [
+    "http://www.loc.gov/resource/sn89060379/1917-04-28/ed-1/"
+   ],
+   "shelf_id": "6",
+   "site": [
+    "chroniclingamerica"
+   ],
+   "subject": [
+    "newspapers",
+    "baltimore (md.)",
+    "baltimore",
+    "women",
+    "suffrage",
+    "maryland",
+    "united states"
+   ],
+   "timestamp": "2023-03-07T03:15:49.864Z",
+   "title": "Image 6 of Maryland suffrage news (Baltimore, Md.), April 28, 1917",
+   "type": [
+    "segment"
+   ],
+   "url": "https://www.loc.gov/resource/sn89060379/1917-04-28/ed-1/?sp=6&q=suffrage",
+   "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmdu%2Fbatch_mdu_columbine_ver02%2Fdata%2Fsn89060379%2Fprint%2F1917042801%2F0006.xml&q=suffrage&relevant_snippet=1"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/resource/sn89060379/1917-02-17/ed-1/?sp=7"
+   ],
+   "batch": [
+    "mdu_columbine_ver02"
+   ],
+   "campaigns": [],
+   "composite_location": [
+    "0/united states/",
+    "1/united states/maryland/",
+    "3/united states/maryland/baltimore/"
+   ],
+   "contributor": [
+    "university of maryland, college park, md"
+   ],
+   "date": "1917-02-17",
+   "dates": [
+    "1917-02-17"
+   ],
+   "description": [
+    "WOMAN SUFFRAGE YEAR BOOR THE Suffrage Year Book for 1917 so anxiously awaited is off the press It is by far the most ambitious effort suffragists have as yet made in the matter of year books It is by no means easy to issue under one cover illuminating information on Suffrage Events in 1916 Suffrage History Arguments Statistics Charts Bibliography International Alli ance Federal Amendment Presidential Suffrage State Referenda Lists of Associations in the United States Suffrage Planks in Party Platforms Effect of Woman Suffrage Number of Women Voters Laws Affecting Women and Children Persons Excluded from Suffrage Jury Service and Poll Tax Facts for Suffrage Workers Sentiment in Favor Cost of Elec tions as we were saying it is by no means easy to do it But it has been done In the result the National Woman Suffrage Publishing Co is offer ing a limited edition of this very substantial volume at 105 postpaid It is edited by Martha G Stapler THE LESLIE WOMAN SUFFRAGE COMMISSION UNDER a recent court ruling an order of distribution of a portion of the Leslie fortune left to Mrs Catt for use in suffrage work has been issued This does not mean however"
+   ],
+   "digitized": true,
+   "extract_timestamp": "2023-03-01T18:28:16.874Z",
+   "group": [
+    "ndnp/mdu",
+    "university-of-maryland-college-park-college-park-md-awardee"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/resource/sn89060379/1917-02-17/ed-1/?sp=7",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_columbine_ver02:data:sn89060379:print:1917021701:0007/full/pct:6.25/0/default.jpg#h=338&w=262",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_columbine_ver02:data:sn89060379:print:1917021701:0007/full/pct:12.5/0/default.jpg#h=677&w=525",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mdu/batch_mdu_columbine_ver02/data/sn89060379/print/1917021701/0007.xml&format=alto_xml"
+   ],
+   "index": 3,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "maryland",
+    "baltimore",
+    "united states"
+   ],
+   "location_city": [
+    "baltimore"
+   ],
+   "location_country": [
+    "united states"
+   ],
+   "location_state": [
+    "maryland"
+   ],
+   "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+   ],
+   "number": [
+    "0000000007",
+    "1",
+    "sn89060379"
+   ],
+   "number_edition": [
+    "1"
+   ],
+   "number_lccn": [
+    "sn89060379"
+   ],
+   "number_page": [
+    "0000000007"
+   ],
+   "online_format": [
+    "image",
+    "pdf",
+    "online text"
+   ],
+   "original_format": [
+    "newspaper"
+   ],
+   "page_id": "sn89060379-1917-02-17-ed-1-0007",
+   "partof": [
+    "serial and government publications division",
+    "maryland suffrage news (baltimore, md.) 1912-1920",
+    "chronicling america"
+   ],
+   "partof_collection": [
+    "chronicling america"
+   ],
+   "partof_division": [
+    "serial and government publications division"
+   ],
+   "partof_title": [
+    "maryland suffrage news (baltimore, md.) 1912-1920"
+   ],
+   "publication_frequency": [
+    "weekly"
+   ],
+   "resources": [
+    {
+     "files": 1,
+     "url": "https://www.loc.gov/resource/sn89060379/1917-02-17/ed-1/?sp=7"
+    }
+   ],
+   "segmentof": [
+    "http://www.loc.gov/resource/sn89060379/1917-02-17/ed-1/"
+   ],
+   "shelf_id": "7",
+   "site": [
+    "chroniclingamerica"
+   ],
+   "subject": [
+    "newspapers",
+    "baltimore (md.)",
+    "baltimore",
+    "women",
+    "suffrage",
+    "maryland",
+    "united states"
+   ],
+   "timestamp": "2023-03-07T03:15:44.005Z",
+   "title": "Image 7 of Maryland suffrage news (Baltimore, Md.), February 17, 1917",
+   "type": [
+    "segment"
+   ],
+   "url": "https://www.loc.gov/resource/sn89060379/1917-02-17/ed-1/?sp=7&q=suffrage",
+   "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmdu%2Fbatch_mdu_columbine_ver02%2Fdata%2Fsn89060379%2Fprint%2F1917021701%2F0007.xml&q=suffrage&relevant_snippet=1"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/resource/sn89060379/1916-07-08/ed-1/?sp=5"
+   ],
+   "batch": [
+    "mdu_columbine_ver02"
+   ],
+   "campaigns": [],
+   "composite_location": [
+    "0/united states/",
+    "1/united states/maryland/",
+    "3/united states/maryland/baltimore/"
+   ],
+   "contributor": [
+    "university of maryland, college park, md"
+   ],
+   "date": "1916-07-08",
+   "dates": [
+    "1916-07-08"
+   ],
+   "description": [
+    "A PRIMER OF DEMOCRACY or AN EXPOSITION OF SUFFRAGE AND ITS OUTLOOK Continued from last week 21 After the fall of the Roman Empire and before the beginning of the modern States of Europe did suffrage exist Europe entered upon and continued from the fall of the Roman Empire in 476 A D to 1492 A D the discovery of the new world in what is known as the Middle Ages a thousand years During this period from the tenth century onward the feudal ages prevailed During this era suffrage as a popular question is very obscure 22 Can we discern any movements toward suffrage in the Middle Ages that is prior to the discovery of the new world Among the AngloSaxons the folkmote or peoples meetings was a kind of town meeting the witenagemot or assembly of the wise was a general or national parliament Habeas corpus and trial by jury existed in the common law The rise of the free cities of Europe in connection with commerce and guilds or associations of an industrial religious or other kind furnish examples of a tendency toward modern suffrage Among other examples of the extension of human rights may be named"
+   ],
+   "digitized": true,
+   "extract_timestamp": "2023-03-01T18:28:16.321Z",
+   "group": [
+    "ndnp/mdu",
+    "university-of-maryland-college-park-college-park-md-awardee"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/resource/sn89060379/1916-07-08/ed-1/?sp=5",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_columbine_ver02:data:sn89060379:print:1916070801:0005/full/pct:6.25/0/default.jpg#h=346&w=268",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_columbine_ver02:data:sn89060379:print:1916070801:0005/full/pct:12.5/0/default.jpg#h=692&w=537",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mdu/batch_mdu_columbine_ver02/data/sn89060379/print/1916070801/0005.xml&format=alto_xml"
+   ],
+   "index": 4,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "maryland",
+    "baltimore",
+    "united states"
+   ],
+   "location_city": [
+    "baltimore"
+   ],
+   "location_country": [
+    "united states"
+   ],
+   "location_state": [
+    "maryland"
+   ],
+   "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+   ],
+   "number": [
+    "sn89060379",
+    "1",
+    "0000000005"
+   ],
+   "number_edition": [
+    "1"
+   ],
+   "number_lccn": [
+    "sn89060379"
+   ],
+   "number_page": [
+    "0000000005"
+   ],
+   "online_format": [
+    "image",
+    "pdf",
+    "online text"
+   ],
+   "original_format": [
+    "newspaper"
+   ],
+   "page_id": "sn89060379-1916-07-08-ed-1-0005",
+   "partof": [
+    "serial and government publications division",
+    "maryland suffrage news (baltimore, md.) 1912-1920",
+    "chronicling america"
+   ],
+   "partof_collection": [
+    "chronicling america"
+   ],
+   "partof_division": [
+    "serial and government publications division"
+   ],
+   "partof_title": [
+    "maryland suffrage news (baltimore, md.) 1912-1920"
+   ],
+   "publication_frequency": [
+    "weekly"
+   ],
+   "resources": [
+    {
+     "files": 1,
+     "url": "https://www.loc.gov/resource/sn89060379/1916-07-08/ed-1/?sp=5"
+    }
+   ],
+   "segmentof": [
+    "http://www.loc.gov/resource/sn89060379/1916-07-08/ed-1/"
+   ],
+   "shelf_id": "5",
+   "site": [
+    "chroniclingamerica"
+   ],
+   "subject": [
+    "newspapers",
+    "baltimore (md.)",
+    "baltimore",
+    "women",
+    "suffrage",
+    "maryland",
+    "united states"
+   ],
+   "timestamp": "2023-03-07T03:15:24.249Z",
+   "title": "Image 5 of Maryland suffrage news (Baltimore, Md.), July 8, 1916",
+   "type": [
+    "segment"
+   ],
+   "url": "https://www.loc.gov/resource/sn89060379/1916-07-08/ed-1/?sp=5&q=suffrage",
+   "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmdu%2Fbatch_mdu_columbine_ver02%2Fdata%2Fsn89060379%2Fprint%2F1916070801%2F0005.xml&q=suffrage&relevant_snippet=1"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/resource/sn89060379/1918-02-09/ed-1/?sp=4"
+   ],
+   "batch": [
+    "mdu_columbine_ver02"
+   ],
+   "campaigns": [],
+   "composite_location": [
+    "0/united states/",
+    "1/united states/maryland/",
+    "3/united states/maryland/baltimore/"
+   ],
+   "contributor": [
+    "university of maryland, college park, md"
+   ],
+   "date": "1918-02-09",
+   "dates": [
+    "1918-02-09"
+   ],
+   "description": [
+    "356 WOMANS PARTY HAVE NEW HEAD QUARTERS THE Womans Party moves this week a significant block nearer the White House into its new national headquarters in Lafayette Square From here when the amendment is passed in the Senate the ratification campaign in the States will be directed The house which faces east on the square is rich in historic associa tions Built early in the history of the nation by Hon Levi Woodbury while he was a member of the Cabinet of President Van Buren it became the home of Schuyler Colfax during his vicepresidency Later it was occupied by Mr Dennison of Lincolns Cabinet and with him as host at tained a reputation for official hospitality unrivaled in the citys records The great men who made the history of their time gathered there But the chief human interest is the KeySickles incident For it was from this house then his home that General Sickles stepped forth on the fatal morning when he fired the bullet that terminated the life of his brilliant rival Barton Key whose admiration for the Generals beau tiful wife was cause of gossip in the community Key lived in the famous old clubhouse on Madison"
+   ],
+   "digitized": true,
+   "extract_timestamp": "2023-03-01T18:28:16.874Z",
+   "group": [
+    "ndnp/mdu",
+    "university-of-maryland-college-park-college-park-md-awardee"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/resource/sn89060379/1918-02-09/ed-1/?sp=4",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_columbine_ver02:data:sn89060379:print:1918020901:0004/full/pct:6.25/0/default.jpg#h=346&w=267",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_columbine_ver02:data:sn89060379:print:1918020901:0004/full/pct:12.5/0/default.jpg#h=692&w=534",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mdu/batch_mdu_columbine_ver02/data/sn89060379/print/1918020901/0004.xml&format=alto_xml"
+   ],
+   "index": 5,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "maryland",
+    "baltimore",
+    "united states"
+   ],
+   "location_city": [
+    "baltimore"
+   ],
+   "location_country": [
+    "united states"
+   ],
+   "location_state": [
+    "maryland"
+   ],
+   "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+   ],
+   "number": [
+    "1",
+    "0000000004",
+    "sn89060379"
+   ],
+   "number_edition": [
+    "1"
+   ],
+   "number_lccn": [
+    "sn89060379"
+   ],
+   "number_page": [
+    "0000000004"
+   ],
+   "online_format": [
+    "image",
+    "pdf",
+    "online text"
+   ],
+   "original_format": [
+    "newspaper"
+   ],
+   "page_id": "sn89060379-1918-02-09-ed-1-0004",
+   "partof": [
+    "serial and government publications division",
+    "maryland suffrage news (baltimore, md.) 1912-1920",
+    "chronicling america"
+   ],
+   "partof_collection": [
+    "chronicling america"
+   ],
+   "partof_division": [
+    "serial and government publications division"
+   ],
+   "partof_title": [
+    "maryland suffrage news (baltimore, md.) 1912-1920"
+   ],
+   "publication_frequency": [
+    "weekly"
+   ],
+   "resources": [
+    {
+     "files": 1,
+     "url": "https://www.loc.gov/resource/sn89060379/1918-02-09/ed-1/?sp=4"
+    }
+   ],
+   "segmentof": [
+    "http://www.loc.gov/resource/sn89060379/1918-02-09/ed-1/"
+   ],
+   "shelf_id": "4",
+   "site": [
+    "chroniclingamerica"
+   ],
+   "subject": [
+    "newspapers",
+    "baltimore (md.)",
+    "baltimore",
+    "women",
+    "suffrage",
+    "maryland",
+    "united states"
+   ],
+   "timestamp": "2023-03-07T03:16:20.503Z",
+   "title": "Image 4 of Maryland suffrage news (Baltimore, Md.), February 9, 1918",
+   "type": [
+    "segment"
+   ],
+   "url": "https://www.loc.gov/resource/sn89060379/1918-02-09/ed-1/?sp=4&q=suffrage",
+   "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmdu%2Fbatch_mdu_columbine_ver02%2Fdata%2Fsn89060379%2Fprint%2F1918020901%2F0004.xml&q=suffrage&relevant_snippet=1"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/resource/sn89060379/1914-07-04/ed-1/?sp=4"
+   ],
+   "batch": [
+    "mdu_columbine_ver02"
+   ],
+   "campaigns": [],
+   "composite_location": [
+    "0/united states/",
+    "1/united states/maryland/",
+    "3/united states/maryland/baltimore/"
+   ],
+   "contributor": [
+    "university of maryland, college park, md"
+   ],
+   "date": "1914-07-04",
+   "dates": [
+    "1914-07-04"
+   ],
+   "description": [
+    "108 CHAMP CLARK FOR WOMAN SUFFRAGE National Congressional Committee Presents Petition to CongressVicePresi dent Courteous But NonCommittal Suffrage scored a great victory on Saturday June 27 when Hon Champ Clark Speaker of the House of Representatives announced that when woman suffrage was submitted in Missouri he would vote for it To have the second officer in power in the National Government thus declare himself in such a pronounced manner as favoring woman suffrage was well worth the assembling of the prominent women in Washington at that time The occasion was the presentation of the petitions of the May 2 demonstration to the Congress of the United States by the National Congressional Committee The delegation which assembled in the Speakers room consisted of Dr Anna Howard Shaw of Philadelphia president of the National Woman Suffrage Association Miss Jane Addams of Chicago first vicepresident Mrs Desha Breckenridge sec ond vicepresident Mrs Medill McCormick of Chicago chairman of the Congressional Committee of the National Association Mrs An toinette Funk of Chicago vicechairman of the Congressional Com mittee Mrs Helen Gardener of Washington another member of the committee Mrs Glenna Smith Tinnin of Washington chairman of the Washington Woman Suffrage Council and Mrs Raymond"
+   ],
+   "digitized": true,
+   "extract_timestamp": "2023-03-01T18:28:16.321Z",
+   "group": [
+    "ndnp/mdu",
+    "university-of-maryland-college-park-college-park-md-awardee"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/resource/sn89060379/1914-07-04/ed-1/?sp=4",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_columbine_ver02:data:sn89060379:print:1914070401:0004/full/pct:6.25/0/default.jpg#h=390&w=268",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_columbine_ver02:data:sn89060379:print:1914070401:0004/full/pct:12.5/0/default.jpg#h=781&w=537",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mdu/batch_mdu_columbine_ver02/data/sn89060379/print/1914070401/0004.xml&format=alto_xml"
+   ],
+   "index": 6,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "maryland",
+    "baltimore",
+    "united states"
+   ],
+   "location_city": [
+    "baltimore"
+   ],
+   "location_country": [
+    "united states"
+   ],
+   "location_state": [
+    "maryland"
+   ],
+   "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+   ],
+   "number": [
+    "1",
+    "0000000004",
+    "sn89060379"
+   ],
+   "number_edition": [
+    "1"
+   ],
+   "number_lccn": [
+    "sn89060379"
+   ],
+   "number_page": [
+    "0000000004"
+   ],
+   "online_format": [
+    "image",
+    "pdf",
+    "online text"
+   ],
+   "original_format": [
+    "newspaper"
+   ],
+   "page_id": "sn89060379-1914-07-04-ed-1-0004",
+   "partof": [
+    "serial and government publications division",
+    "maryland suffrage news (baltimore, md.) 1912-1920",
+    "chronicling america"
+   ],
+   "partof_collection": [
+    "chronicling america"
+   ],
+   "partof_division": [
+    "serial and government publications division"
+   ],
+   "partof_title": [
+    "maryland suffrage news (baltimore, md.) 1912-1920"
+   ],
+   "publication_frequency": [
+    "weekly"
+   ],
+   "resources": [
+    {
+     "files": 1,
+     "url": "https://www.loc.gov/resource/sn89060379/1914-07-04/ed-1/?sp=4"
+    }
+   ],
+   "segmentof": [
+    "http://www.loc.gov/resource/sn89060379/1914-07-04/ed-1/"
+   ],
+   "shelf_id": "4",
+   "site": [
+    "chroniclingamerica"
+   ],
+   "subject": [
+    "newspapers",
+    "baltimore (md.)",
+    "baltimore",
+    "women",
+    "suffrage",
+    "maryland",
+    "united states"
+   ],
+   "timestamp": "2023-03-07T03:14:27.363Z",
+   "title": "Image 4 of Maryland suffrage news (Baltimore, Md.), July 4, 1914",
+   "type": [
+    "segment"
+   ],
+   "url": "https://www.loc.gov/resource/sn89060379/1914-07-04/ed-1/?sp=4&q=suffrage",
+   "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmdu%2Fbatch_mdu_columbine_ver02%2Fdata%2Fsn89060379%2Fprint%2F1914070401%2F0004.xml&q=suffrage&relevant_snippet=1"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/resource/sn89060379/1913-08-23/ed-1/?sp=2"
+   ],
+   "batch": [
+    "mdu_columbine_ver02"
+   ],
+   "campaigns": [],
+   "composite_location": [
+    "0/united states/",
+    "1/united states/maryland/",
+    "3/united states/maryland/baltimore/"
+   ],
+   "contributor": [
+    "university of maryland, college park, md"
+   ],
+   "date": "1913-08-23",
+   "dates": [
+    "1913-08-23"
+   ],
+   "description": [
+    "162 for over onehalf of the voters of the State have voiced their own de mand in this regard The Next Step There is no doubt but that a large proportion of the members of the Democratic party wish to have a suffrage referendum plank inserted in the party platform The leaders can however make it exceedingly difficult for the people to secure this plank by appointing an adverse platform committee The only way to insure the insertion of the suf frage referendum plank is to make it clear to the Democratic leaders that suffrage sentiment is so strong in the State that the omission of the plank would be detrimental to the party in the November elections Expediency is a singularly powerful factor in political circles Jus tice fades into insignificance beside it It may be doubted whether even the Republican party would have inserted the suffrage plank if the leaders had believed it would be inexpedient to do so The chief work for the present then is to convince the Democratic leaders of the expe diency of inserting the suffrage plank and of the dangerous inexpediency of omitting it Here again the only ammunition the suffragists have is"
+   ],
+   "digitized": true,
+   "extract_timestamp": "2023-03-01T18:28:15.805Z",
+   "group": [
+    "ndnp/mdu",
+    "university-of-maryland-college-park-college-park-md-awardee"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/resource/sn89060379/1913-08-23/ed-1/?sp=2",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_columbine_ver02:data:sn89060379:print:1913082301:0002/full/pct:6.25/0/default.jpg#h=396&w=275",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_columbine_ver02:data:sn89060379:print:1913082301:0002/full/pct:12.5/0/default.jpg#h=792&w=551",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mdu/batch_mdu_columbine_ver02/data/sn89060379/print/1913082301/0002.xml&format=alto_xml"
+   ],
+   "index": 7,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "maryland",
+    "baltimore",
+    "united states"
+   ],
+   "location_city": [
+    "baltimore"
+   ],
+   "location_country": [
+    "united states"
+   ],
+   "location_state": [
+    "maryland"
+   ],
+   "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+   ],
+   "number": [
+    "sn89060379",
+    "1",
+    "0000000002"
+   ],
+   "number_edition": [
+    "1"
+   ],
+   "number_lccn": [
+    "sn89060379"
+   ],
+   "number_page": [
+    "0000000002"
+   ],
+   "online_format": [
+    "image",
+    "pdf",
+    "online text"
+   ],
+   "original_format": [
+    "newspaper"
+   ],
+   "page_id": "sn89060379-1913-08-23-ed-1-0002",
+   "partof": [
+    "serial and government publications division",
+    "maryland suffrage news (baltimore, md.) 1912-1920",
+    "chronicling america"
+   ],
+   "partof_collection": [
+    "chronicling america"
+   ],
+   "partof_division": [
+    "serial and government publications division"
+   ],
+   "partof_title": [
+    "maryland suffrage news (baltimore, md.) 1912-1920"
+   ],
+   "publication_frequency": [
+    "weekly"
+   ],
+   "resources": [
+    {
+     "files": 1,
+     "url": "https://www.loc.gov/resource/sn89060379/1913-08-23/ed-1/?sp=2"
+    }
+   ],
+   "segmentof": [
+    "http://www.loc.gov/resource/sn89060379/1913-08-23/ed-1/"
+   ],
+   "shelf_id": "2",
+   "site": [
+    "chroniclingamerica"
+   ],
+   "subject": [
+    "newspapers",
+    "baltimore (md.)",
+    "baltimore",
+    "women",
+    "suffrage",
+    "maryland",
+    "united states"
+   ],
+   "timestamp": "2023-03-07T03:13:49.610Z",
+   "title": "Image 2 of Maryland suffrage news (Baltimore, Md.), August 23, 1913",
+   "type": [
+    "segment"
+   ],
+   "url": "https://www.loc.gov/resource/sn89060379/1913-08-23/ed-1/?sp=2&q=suffrage",
+   "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmdu%2Fbatch_mdu_columbine_ver02%2Fdata%2Fsn89060379%2Fprint%2F1913082301%2F0002.xml&q=suffrage&relevant_snippet=1"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/resource/sn93067853/1917-03-16/ed-2/?sp=3"
+   ],
+   "batch": [
+    "scu_irmookrastrut_ver01"
+   ],
+   "campaigns": [],
+   "composite_location": [
+    "0/united states/",
+    "1/united states/south carolina/",
+    "2/united states/south carolina/union/",
+    "3/united states/south carolina/union/union/"
+   ],
+   "contributor": [
+    "university of south carolina; columbia, sc"
+   ],
+   "date": "1917-03-16",
+   "dates": [
+    "1917-03-16"
+   ],
+   "description": [
+    "DOES ROMANCE DIE SI WHEN WOMEN VOTE Case From Montana is Cited for Information of South Carolina Senator n ju When the bill for the referendum for woman suffrage came up in our by St 51 fp QAnflfp Ano nf our QQnatnrc oh tG jected to equal suffrage on sentimen w tal grounds He said that if it were tis granted to the women of South Caro Sc lina romance would immediately swoon m away and die and he also pointed out w that no man could make love to a seasoned politician His argument so is entirely refuted by the following no Some years ago a man and woman ran for the office of attorney general ln in Montana on opposite tickets The h man was elected Thereupon he ap P11 pointed the woman as his assistant at be torney general Later the two were HI married HI vo WHY WOMEN SHOULD VOTE th I have been asked why I believe in ur woman suffrage I have been in favor of woman suf pr frage ever since I knew the meaning fr of the words I have been an advocate of the cause for many years 0f though at"
+   ],
+   "digitized": true,
+   "extract_timestamp": "2024-01-24T14:41:48.243Z",
+   "group": [
+    "ndnp/scu",
+    "university-of-south-carolina-columbia-sc-awardee"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/resource/sn93067853/1917-03-16/ed-2/?sp=3",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_irmookrastrut_ver01:data:sn93067853:00295861642:1917031602:0657/full/pct:3.125/0/default.jpg#h=256&w=186",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_irmookrastrut_ver01:data:sn93067853:00295861642:1917031602:0657/full/pct:6.25/0/default.jpg#h=513&w=373",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_irmookrastrut_ver01:data:sn93067853:00295861642:1917031602:0657/full/pct:12.5/0/default.jpg#h=1027&w=747",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/scu/batch_scu_irmookrastrut_ver01/data/sn93067853/00295861642/1917031602/0657.xml&format=alto_xml"
+   ],
+   "index": 8,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "union",
+    "south carolina",
+    "union county",
+    "united states"
+   ],
+   "location_city": [
+    "union"
+   ],
+   "location_country": [
+    "united states"
+   ],
+   "location_county": [
+    "union"
+   ],
+   "location_state": [
+    "south carolina"
+   ],
+   "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+   ],
+   "number": [
+    "4",
+    "2",
+    "0",
+    "1",
+    "0000000003",
+    "8",
+    "sn93067853",
+    "9",
+    "5",
+    "6"
+   ],
+   "number_edition": [
+    "2"
+   ],
+   "number_lccn": [
+    "sn93067853"
+   ],
+   "number_page": [
+    "0000000003"
+   ],
+   "number_reel": [
+    "0",
+    "0",
+    "2",
+    "9",
+    "5",
+    "8",
+    "6",
+    "1",
+    "6",
+    "4",
+    "2"
+   ],
+   "online_format": [
+    "image",
+    "pdf",
+    "online text"
+   ],
+   "original_format": [
+    "newspaper"
+   ],
+   "page_id": "sn93067853-1917-03-16-ed-2-0657",
+   "partof": [
+    "serial and government publications division",
+    "chronicling america",
+    "the union times (union, s.c.) 1894-1918"
+   ],
+   "partof_collection": [
+    "chronicling america"
+   ],
+   "partof_division": [
+    "serial and government publications division"
+   ],
+   "partof_title": [
+    "the union times (union, s.c.) 1894-1918"
+   ],
+   "publication_frequency": [
+    "weekly"
+   ],
+   "resources": [
+    {
+     "files": 1,
+     "url": "https://www.loc.gov/resource/sn93067853/1917-03-16/ed-2/?sp=3"
+    }
+   ],
+   "segmentof": [
+    "http://www.loc.gov/resource/sn93067853/1917-03-16/ed-2/"
+   ],
+   "shelf_id": "3",
+   "site": [
+    "chroniclingamerica"
+   ],
+   "subject": [
+    "newspapers",
+    "union (union county)",
+    "union",
+    "union (union county, s.c.)",
+    "union county",
+    "south carolina",
+    "union county (s.c.)",
+    "united states"
+   ],
+   "timestamp": "2024-02-04T15:59:18.603Z",
+   "title": "Image 3 of The Union times (Union, S.C.), March 16, 1917, (EQUAL SUFFRAGE EDITION, Supplement to the Union Times)",
+   "type": [
+    "segment"
+   ],
+   "url": "https://www.loc.gov/resource/sn93067853/1917-03-16/ed-2/?sp=3&q=suffrage",
+   "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fscu%2Fbatch_scu_irmookrastrut_ver01%2Fdata%2Fsn93067853%2F00295861642%2F1917031602%2F0657.xml&q=suffrage&relevant_snippet=1"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/resource/sn89058013/1920-08-13/ed-1/?sp=4"
+   ],
+   "batch": [
+    "tu_bertha_ver01"
+   ],
+   "campaigns": [],
+   "composite_location": [
+    "0/united states/",
+    "1/united states/tennessee/",
+    "2/united states/tennessee/benton/",
+    "3/united states/tennessee/benton/camden/"
+   ],
+   "contributor": [
+    "university of tennessee"
+   ],
+   "date": "1920-08-13",
+   "dates": [
+    "1920-08-13"
+   ],
+   "description": [
+    "I Why American Women I Want the Ballot f 7T P tilVil IS LOWEST INFANT DEATH RATE IN FULL SUFFRAGE COUNTRIES BALLOT SAFEGUARDS THE HOME ew Zealand Fist Countryto Grant Suffrage to Women Has Lowest Infant Mortality Rate in the World Women Use Ballot to Further Legislation for Home and State In days gone by dire accusations were brought against women who dared nurse an ambition to have a voice in the government of their coun try Every unlovely epithet In the SJnglish dictionary and there are sev eral was bestowed upon them They were homewreckers childhaters family destroyers But year by year woman suffrage was tried out country by country state by state and lol St was discovered that woman was osing her vote not to wreck the home to protect It not to the hurt of chil dren to their great good not to de stroy the family to strengthen and secure It So widespread has been the discovery that opponents of woman suffrage no longer dare make these changes save in backwoods places or places that they consider fojackwoodsy In view of the facts It is ta flout the Intelligence f a com munity to tell It"
+   ],
+   "digitized": true,
+   "extract_timestamp": "2020-10-19T03:09:55.562Z",
+   "group": [
+    "ndnp/tu",
+    "university-of-tennessee-awardee"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/resource/sn89058013/1920-08-13/ed-1/?sp=4",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bertha_ver01:data:sn89058013:00296020369:1920081301:0763/full/pct:6.25/0/default.jpg#h=456&w=290",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bertha_ver01:data:sn89058013:00296020369:1920081301:0763/full/pct:12.5/0/default.jpg#h=913&w=581",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/tu/batch_tu_bertha_ver01/data/sn89058013/00296020369/1920081301/0763.xml&format=alto_xml"
+   ],
+   "index": 9,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "benton county",
+    "benton",
+    "tennessee",
+    "camden",
+    "united states"
+   ],
+   "location_city": [
+    "camden"
+   ],
+   "location_country": [
+    "united states"
+   ],
+   "location_county": [
+    "benton"
+   ],
+   "location_state": [
+    "tennessee"
+   ],
+   "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+   ],
+   "number": [
+    "sn89058013",
+    "2",
+    "0",
+    "1",
+    "9",
+    "6",
+    "0000000004",
+    "3"
+   ],
+   "number_edition": [
+    "1"
+   ],
+   "number_lccn": [
+    "sn89058013"
+   ],
+   "number_page": [
+    "0000000004"
+   ],
+   "number_reel": [
+    "0",
+    "0",
+    "2",
+    "9",
+    "6",
+    "0",
+    "2",
+    "0",
+    "3",
+    "6",
+    "9"
+   ],
+   "online_format": [
+    "image",
+    "pdf",
+    "online text"
+   ],
+   "original_format": [
+    "newspaper"
+   ],
+   "page_id": "sn89058013-1920-08-13-ed-1-0763",
+   "partof": [
+    "serial and government publications division",
+    "the camden chronicle (camden, tenn.) 1890-current",
+    "chronicling america"
+   ],
+   "partof_collection": [
+    "chronicling america"
+   ],
+   "partof_division": [
+    "serial and government publications division"
+   ],
+   "partof_title": [
+    "the camden chronicle (camden, tenn.) 1890-current"
+   ],
+   "publication_frequency": [
+    "weekly"
+   ],
+   "resources": [
+    {
+     "files": 1,
+     "url": "https://www.loc.gov/resource/sn89058013/1920-08-13/ed-1/?sp=4"
+    }
+   ],
+   "segmentof": [
+    "http://www.loc.gov/resource/sn89058013/1920-08-13/ed-1/"
+   ],
+   "shelf_id": "4",
+   "site": [
+    "chroniclingamerica"
+   ],
+   "subject": [
+    "newspapers",
+    "united states",
+    "benton county",
+    "benton",
+    "benton county (tenn.)",
+    "tennessee",
+    "camden",
+    "camden (tenn.)"
+   ],
+   "timestamp": "2022-10-27T13:39:47.998Z",
+   "title": "Image 4 of The Camden chronicle (Camden, Tenn.), August 13, 1920",
+   "type": [
+    "segment"
+   ],
+   "url": "https://www.loc.gov/resource/sn89058013/1920-08-13/ed-1/?sp=4&q=suffrage",
+   "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Ftu%2Fbatch_tu_bertha_ver01%2Fdata%2Fsn89058013%2F00296020369%2F1920081301%2F0763.xml&q=suffrage&relevant_snippet=1"
+  },
+  {
+   "access_restricted": false,
+   "aka": [
+    "http://www.loc.gov/resource/sn89060379/1916-07-29/ed-1/?sp=5"
+   ],
+   "batch": [
+    "mdu_columbine_ver02"
+   ],
+   "campaigns": [],
+   "composite_location": [
+    "0/united states/",
+    "1/united states/maryland/",
+    "3/united states/maryland/baltimore/"
+   ],
+   "contributor": [
+    "university of maryland, college park, md"
+   ],
+   "date": "1916-07-29",
+   "dates": [
+    "1916-07-29"
+   ],
+   "description": [
+    "A PRIMER OF DEMOCRACY or AN EXPOSITION OF SUFFRAGE AND ITS OUTLOOK Continued from last week 57 But do not men who are heads of families have suffrage and thus represent their families As has been said the representative idea has dropped out of suffrage which has become individualistic the family therefore has no direct part in government under individualistic suffrage 58 Can you illustrate this defect as you term it Here are two men one has no family whatever the other has a family of one or more children Both have the same suffrage I maintain that the former represents suffrage reduced to its lowest terms and that here the family as such is unrepresented and has no direct share in govern ment and that it lacks the advantages for which suffrage stands Suf frage as a direct issue is strictly individualistic 59 What then do you propose I propose the triple ballot instead of the single or dual ballot that is both the individual and the family with minor offspring shall have suf frage or in other words male female and family with minor off spring or household suffrage 60 Would you give the family a vote in"
+   ],
+   "digitized": true,
+   "extract_timestamp": "2023-03-01T18:28:16.874Z",
+   "group": [
+    "ndnp/mdu",
+    "university-of-maryland-college-park-college-park-md-awardee"
+   ],
+   "hassegments": false,
+   "id": "http://www.loc.gov/resource/sn89060379/1916-07-29/ed-1/?sp=5",
+   "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_columbine_ver02:data:sn89060379:print:1916072901:0005/full/pct:6.25/0/default.jpg#h=345&w=271",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_columbine_ver02:data:sn89060379:print:1916072901:0005/full/pct:12.5/0/default.jpg#h=691&w=542",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mdu/batch_mdu_columbine_ver02/data/sn89060379/print/1916072901/0005.xml&format=alto_xml"
+   ],
+   "index": 10,
+   "language": [
+    "english"
+   ],
+   "location": [
+    "maryland",
+    "baltimore",
+    "united states"
+   ],
+   "location_city": [
+    "baltimore"
+   ],
+   "location_country": [
+    "united states"
+   ],
+   "location_state": [
+    "maryland"
+   ],
+   "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+   ],
+   "number": [
+    "sn89060379",
+    "1",
+    "0000000005"
+   ],
+   "number_edition": [
+    "1"
+   ],
+   "number_lccn": [
+    "sn89060379"
+   ],
+   "number_page": [
+    "0000000005"
+   ],
+   "online_format": [
+    "image",
+    "pdf",
+    "online text"
+   ],
+   "original_format": [
+    "newspaper"
+   ],
+   "page_id": "sn89060379-1916-07-29-ed-1-0005",
+   "partof": [
+    "serial and government publications division",
+    "maryland suffrage news (baltimore, md.) 1912-1920",
+    "chronicling america"
+   ],
+   "partof_collection": [
+    "chronicling america"
+   ],
+   "partof_division": [
+    "serial and government publications division"
+   ],
+   "partof_title": [
+    "maryland suffrage news (baltimore, md.) 1912-1920"
+   ],
+   "publication_frequency": [
+    "weekly"
+   ],
+   "resources": [
+    {
+     "files": 1,
+     "url": "https://www.loc.gov/resource/sn89060379/1916-07-29/ed-1/?sp=5"
+    }
+   ],
+   "segmentof": [
+    "http://www.loc.gov/resource/sn89060379/1916-07-29/ed-1/"
+   ],
+   "shelf_id": "5",
+   "site": [
+    "chroniclingamerica"
+   ],
+   "subject": [
+    "newspapers",
+    "baltimore (md.)",
+    "baltimore",
+    "women",
+    "suffrage",
+    "maryland",
+    "united states"
+   ],
+   "timestamp": "2023-03-07T03:15:25.964Z",
+   "title": "Image 5 of Maryland suffrage news (Baltimore, Md.), July 29, 1916",
+   "type": [
+    "segment"
+   ],
+   "url": "https://www.loc.gov/resource/sn89060379/1916-07-29/ed-1/?sp=5&q=suffrage",
+   "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmdu%2Fbatch_mdu_columbine_ver02%2Fdata%2Fsn89060379%2Fprint%2F1916072901%2F0005.xml&q=suffrage&relevant_snippet=1"
+  }
+ ]
+}
