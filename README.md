@@ -35,7 +35,7 @@ The workshop will mostly rely on [Google Colab](https://colab.research.google.co
 
 
 - Pandas: working with data at scale [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/main/Sessions/3b-Pandas.ipynb)
-- Introduction to Machine Learning: [slides](https://docs.google.com/presentation/d/1XnARqcmMiFCv3_yurD4SZxfqEZ5l4gYY/edit?usp=sharing&ouid=110048370609112380558&rtpof=true&sd=true)
+- Introduction to Machine Learning: [slides]([https://docs.google.com/presentation/d/1XnARqcmMiFCv3_yurD4SZxfqEZ5l4gYY/edit?usp=sharing&ouid=110048370609112380558&rtpof=true&sd=true](https://docs.google.com/presentation/d/1KbyIDuG16L-JJgW2FfGkM5f9iveSv9JsVzX4I1k2zI0/edit?usp=sharing)
 - Machine Learning: classifying book genres [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/main/Sessions/3c-Machine-Learning.ipynb)
 - Introduction to Language Modelling: [slides](https://docs.google.com/presentation/d/1NpqtzSmjNTPVlSICn0D7zKWipbagKcjgn2WWAi_ZcfU/edit?usp=sharing)
 
