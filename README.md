@@ -70,23 +70,138 @@ Language modelling: from words as columns to words as vectors.
 
 ## Local installation
 
-Our entire course will be on Google Colab. If you want to set up the notebooks locally on your machine, these are the instructions. However bear in mind that some of the tools might not work well on certain ~~old~~ laptops (especially from Day 4 onwards).
+The course itself runs entirely on Google Colab, so you do **not** need a local
+setup to follow along. If you would rather run the notebooks on your own
+machine, the instructions below work on macOS, Linux and Windows. Bear in mind
+that some of the tools are heavy and may be slow on older laptops (especially
+from Day 4 onwards).
 
-- Install [Anaconda](https://www.anaconda.com/)
-- Download the content of this repository and unzip
-- Open Anaconda Navigator
-- From Anaconda, create environment py39
-- Install JupyterLab in environment
-- Launch JupyterLab
-- Open terminal in Jupyter Lab
-- Write the following in the terminal, step-by-step:
-  _ `conda activate py39`
-  _ Update pip: `pip install --upgrade pip`
-  _ Change directory using the `cd` command in the terminal until you are in the course folder. There you should run: `pip install -r requirements.txt`
-  _ Add the environment to Jupyter (following instructions from here) or by running `ipython kernel install --user --name=py39`
-  Then you can already start using the notebooks: select as kernel `py39` (restart JupyterLab if the correct kernel does not show)
+You need **Python 3.10 or newer** (the notebooks are developed against 3.13).
 
-You find more detailed instructions [here](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/01-Install-Python.html).
+### Option A: with `uv` (recommended)
+
+[`uv`](https://docs.astral.sh/uv/) is a fast installer that also manages the
+Python version for you. Install it first, if you do not have it already:
+
+```bash
+# macOS and Linux
+curl -LsSf https://astral.sh/uv/install.sh | sh
+```
+
+```powershell
+# Windows (PowerShell)
+powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"
+```
+
+Alternatively, with [Homebrew](https://brew.sh/) (`brew install uv`), with
+`pipx` (`pipx install uv`) or with pip (`pip install uv`). Open a new terminal
+afterwards so that the `uv` command is on your path, and check it works with
+`uv --version`.
+
+Then set up the project:
+
+```bash
+git clone https://github.com/Living-with-machines/dhoxss-text2tech.git
+cd dhoxss-text2tech
+
+uv venv --python 3.13
+source .venv/bin/activate        # Windows: .venv\Scripts\activate
+uv pip install -r requirements.txt
+```
+
+### Option B: with `conda` / Anaconda
+
+If you already use [Anaconda](https://www.anaconda.com/), create the
+environment from the Anaconda Prompt (Windows) or a terminal (macOS/Linux):
+
+```bash
+conda create -n text2tech python=3.13
+conda activate text2tech
+
+pip install --upgrade pip
+pip install -r requirements.txt
+```
+
+### Option C: with plain `venv` and `pip`
+
+```bash
+python3 -m venv .venv
+source .venv/bin/activate        # Windows: .venv\Scripts\activate
+pip install --upgrade pip
+pip install -r requirements.txt
+```
+
+### Finishing the setup
+
+Whichever option you chose, from the activated environment:
+
+1. Download the small English spaCy model used on Day 4:
+
+   ```bash
+   python -m spacy download en_core_web_sm
+   ```
+
+2. Register the environment as a Jupyter kernel:
+
+   ```bash
+   python -m ipykernel install --user --name=text2tech --display-name="Text to Tech"
+   ```
+
+### Opening the notebooks
+
+The notebooks live in the `Sessions/` folder. You can work on them either in
+JupyterLab or in VS Code — pick whichever you are more comfortable with.
+
+#### JupyterLab
+
+From the activated environment, in the course folder:
+
+```bash
+pip install jupyterlab
+jupyter lab
+```
+
+This opens JupyterLab in your browser. Double-click a notebook in the
+`Sessions/` folder on the left to open it, then check the kernel name in the
+top-right corner: it should say **Text to Tech**. If it does not, click on it
+and pick **Text to Tech** from the list (restart JupyterLab if the kernel does
+not show up straight away). Run a cell with `Shift + Enter`.
+
+#### VS Code
+
+Install [VS Code](https://code.visualstudio.com/) and, from its Extensions
+panel, the **Python** and **Jupyter** extensions (both published by Microsoft).
+Then:
+
+1. **File → Open Folder** and choose the `dhoxss-text2tech` folder.
+2. Open a notebook from `Sessions/` in the Explorer sidebar.
+3. Click **Select Kernel** in the top-right corner, choose **Python
+   Environments**, and pick the environment you created (`.venv` for options A
+   and C, `text2tech` for conda).
+4. Run a cell with `Shift + Enter`.
+
+VS Code does not need the `ipykernel install` step from above, as long as
+`ipykernel` is installed in the environment — which `requirements.txt` takes
+care of.
+
+A few notebooks install extra packages on the fly with `!pip install ...`
+because they are written for Colab; those lines are harmless locally, but you
+can skip them once the package is already in your environment.
+
+### Notes
+
+- `requirements.txt` is deliberately unpinned so that a local install matches
+  the current releases Colab provides. If you need a reproducible environment,
+  snapshot it with `pip freeze > requirements-lock.txt`.
+- The Day 5 notebook on local LLMs also needs [ollama](https://ollama.com/)
+  installed as a separate application, plus the model it uses:
+  `ollama pull gemma2:2b`.
+- `pyproject.toml` / `poetry.lock` are used for maintaining the repository; you
+  do not need Poetry to run the notebooks, but `poetry install` works too.
+
+If you are new to Python environments, these
+[step-by-step instructions](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/01-Install-Python.html)
+give more background.
 
 ## Data
 
