@@ -43,11 +43,6 @@ The workshop will mostly rely on [Google Colab](https://colab.research.google.co
 
 - Libraries [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/main/Sessions/3a-Libraries.ipynb)
 - Information Retrieval at scale (pandas + TF-IDF) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/main/Sessions/3d-Info-Retrieval.ipynb)
-- Why pandas?  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/main/Sessions/3i-Pandas-Intro.ipynb)
-- Pandas: tabular data and DataFrames [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/main/Sessions/3e-Pandas-DataFrames.ipynb)
-- Pandas: selecting and inspecting [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/main/Sessions/3f-Pandas-Selecting.ipynb)
-- Pandas: working with text [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/main/Sessions/3g-Pandas-Text.ipynb)
-- Pandas: aggregating and plotting [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/main/Sessions/3h-Pandas-Aggregating.ipynb)
 - Topic Modelling [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/main/Sessions/4e-Topic-modeling.ipynb)
 
 ## Day 4
