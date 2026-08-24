@@ -14,6 +14,10 @@ The workshop will mostly rely on [Google Colab](https://colab.research.google.co
 - Intro to Python: Conditionals and loops [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/main/Sessions/1c-Intro-to-Python.ipynb)
 - Functions [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/main/Sessions/1d-Functions.ipynb)
 
+### Exercises
+
+- The longest word in a book [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/main/Sessions/1f-Exercise-longest-word.ipynb)
+
 ## Day 2
 
 - Basic Text Processing [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/main/Sessions/2a-Basic-text-processing.ipynb)
