@@ -41,7 +41,6 @@ The workshop will mostly rely on [Google Colab](https://colab.research.google.co
 - Pandas: working with data at scale [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/main/Sessions/3b-Pandas.ipynb)
 - Introduction to Machine Learning [![Open in Slides](https://img.shields.io/badge/-Open%20in%20Slides-E37400?logo=googleslides&logoColor=F9AB00&labelColor=fff)](https://docs.google.com/presentation/d/1KbyIDuG16L-JJgW2FfGkM5f9iveSv9JsVzX4I1k2zI0/edit?usp=sharing)
 - Machine Learning: classifying book genres [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/main/Sessions/3c-Machine-Learning.ipynb)
-- Introduction to Language Modelling [![Open in Slides](https://img.shields.io/badge/-Open%20in%20Slides-E37400?logo=googleslides&logoColor=F9AB00&labelColor=fff)](https://docs.google.com/presentation/d/1NpqtzSmjNTPVlSICn0D7zKWipbagKcjgn2WWAi_ZcfU/edit?usp=sharing)
 
 ### Additional material
 
@@ -52,11 +51,10 @@ The workshop will mostly rely on [Google Colab](https://colab.research.google.co
 ## Day 4
 
 Language modelling: from words as columns to words as vectors.
-
+- Introduction to Language Modelling [![Open in Slides](https://img.shields.io/badge/-Open%20in%20Slides-E37400?logo=googleslides&logoColor=F9AB00&labelColor=fff)](https://docs.google.com/presentation/d/1NpqtzSmjNTPVlSICn0D7zKWipbagKcjgn2WWAi_ZcfU/edit?usp=sharing)
 - Word embeddings (1): exploring [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/main/Sessions/4a-word2vec-exploring.ipynb)
 - Word embeddings (2): training your own [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/main/Sessions/4b-word2vec-training.ipynb)
 - Introduction to Large Language Models and Transfer Learning [![Open in Slides](https://img.shields.io/badge/-Open%20in%20Slides-E37400?logo=googleslides&logoColor=F9AB00&labelColor=fff)](https://docs.google.com/presentation/d/1GjxvtL18R-_W8nkYcXk3AmkT9JT-DLFqO_twpCoFI-A/edit?usp=sharing)
-- Transformers for NLP [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/main/Sessions/4c-Transformers-for-NLP.ipynb)
 
 ### Additional material
 
@@ -64,10 +62,13 @@ Language modelling: from words as columns to words as vectors.
 - Linguistic processing with spaCy [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/main/Sessions/4d-spaCy.ipynb)
 
 ## Day 5
-
 - Introduction to Generative AI [![Open in Slides](https://img.shields.io/badge/-Open%20in%20Slides-E37400?logo=googleslides&logoColor=F9AB00&labelColor=fff)](https://docs.google.com/presentation/d/11iO6VpBTUaIRALvqqGUWHh_eIOIuiP6a-PAqkUWovSw/edit?usp=sharing)
+- Transformers for NLP [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/main/Sessions/4c-Transformers-for-NLP.ipynb)
 - Language Models as Models of Language [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/main/Sessions/5a-Models-of-Language.ipynb)
 - LLMs as Research Assistants [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/main/Sessions/5b-LLMs-as-Research-Assistants.ipynb)
+
+### Additional material
+
 - Using local LLMs [![Open in Slides](https://img.shields.io/badge/-Open%20in%20Slides-E37400?logo=googleslides&logoColor=F9AB00&labelColor=fff)](https://docs.google.com/presentation/d/10er_bs1rNMidXHPM-CDdmMcvo70yXuMvPJ-v3-nqGkw/edit?usp=sharing)
 - Using local LLMs with ollama [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/main/Sessions/5c-ollama.ipynb)
 
