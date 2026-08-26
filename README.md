@@ -8,8 +8,8 @@ The workshop will mostly rely on [Google Colab](https://colab.research.google.co
 
 ## Day 1
 
-- [Welcome slides](https://docs.google.com/presentation/d/1u8c8vX32tPRolVjnBvK0NR8GTywHZLzIctbI4kS0al4/edit?usp=sharing)
-- [Intro to the course](https://docs.google.com/presentation/d/1TEl_-BLgEyDZ6W69WMSaHzGN1f-UI75GAGa4gI_2wTw/edit?usp=sharing)
+- Welcome slides [![Open in Slides](https://img.shields.io/badge/-Open%20in%20Slides-E37400?logo=googleslides&logoColor=F9AB00&labelColor=fff)](https://docs.google.com/presentation/d/1u8c8vX32tPRolVjnBvK0NR8GTywHZLzIctbI4kS0al4/edit?usp=sharing)
+- Intro to the course [![Open in Slides](https://img.shields.io/badge/-Open%20in%20Slides-E37400?logo=googleslides&logoColor=F9AB00&labelColor=fff)](https://docs.google.com/presentation/d/1TEl_-BLgEyDZ6W69WMSaHzGN1f-UI75GAGa4gI_2wTw/edit?usp=sharing)
 - Intro to Python: Basic concepts [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/main/Sessions/1b-Intro-to-Python.ipynb)
 - Intro to Python: Conditionals and loops [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/main/Sessions/1c-Intro-to-Python.ipynb)
 - Functions [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/main/Sessions/1d-Functions.ipynb)
@@ -39,9 +39,9 @@ The workshop will mostly rely on [Google Colab](https://colab.research.google.co
 
 
 - Pandas: working with data at scale [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/main/Sessions/3b-Pandas.ipynb)
-- Introduction to Machine Learning: [slides](https://docs.google.com/presentation/d/1KbyIDuG16L-JJgW2FfGkM5f9iveSv9JsVzX4I1k2zI0/edit?usp=sharing)
+- Introduction to Machine Learning [![Open in Slides](https://img.shields.io/badge/-Open%20in%20Slides-E37400?logo=googleslides&logoColor=F9AB00&labelColor=fff)](https://docs.google.com/presentation/d/1KbyIDuG16L-JJgW2FfGkM5f9iveSv9JsVzX4I1k2zI0/edit?usp=sharing)
 - Machine Learning: classifying book genres [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/main/Sessions/3c-Machine-Learning.ipynb)
-- Introduction to Language Modelling: [slides](https://docs.google.com/presentation/d/1NpqtzSmjNTPVlSICn0D7zKWipbagKcjgn2WWAi_ZcfU/edit?usp=sharing)
+- Introduction to Language Modelling [![Open in Slides](https://img.shields.io/badge/-Open%20in%20Slides-E37400?logo=googleslides&logoColor=F9AB00&labelColor=fff)](https://docs.google.com/presentation/d/1NpqtzSmjNTPVlSICn0D7zKWipbagKcjgn2WWAi_ZcfU/edit?usp=sharing)
 
 ### Additional material
 
@@ -55,20 +55,20 @@ Language modelling: from words as columns to words as vectors.
 
 - Word embeddings (1): exploring [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/main/Sessions/4a-word2vec-exploring.ipynb)
 - Word embeddings (2): training your own [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/main/Sessions/4b-word2vec-training.ipynb)
-- Introduction to Large Language Models and Transfer Learning: [slides](https://docs.google.com/presentation/d/1GjxvtL18R-_W8nkYcXk3AmkT9JT-DLFqO_twpCoFI-A/edit?usp=sharing)
+- Introduction to Large Language Models and Transfer Learning [![Open in Slides](https://img.shields.io/badge/-Open%20in%20Slides-E37400?logo=googleslides&logoColor=F9AB00&labelColor=fff)](https://docs.google.com/presentation/d/1GjxvtL18R-_W8nkYcXk3AmkT9JT-DLFqO_twpCoFI-A/edit?usp=sharing)
 - Transformers for NLP [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/main/Sessions/4c-Transformers-for-NLP.ipynb)
 
 ### Additional material
 
-- Intro to NLP with SpaCy: [slides](https://docs.google.com/presentation/d/1v15RfrgbUc858m4c8SvU_Qw3JFSdaQXhA5lWD1xA-P0/edit?usp=sharing)
+- Intro to NLP with SpaCy [![Open in Slides](https://img.shields.io/badge/-Open%20in%20Slides-E37400?logo=googleslides&logoColor=F9AB00&labelColor=fff)](https://docs.google.com/presentation/d/1v15RfrgbUc858m4c8SvU_Qw3JFSdaQXhA5lWD1xA-P0/edit?usp=sharing)
 - Linguistic processing with spaCy [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/main/Sessions/4d-spaCy.ipynb)
 
 ## Day 5
 
-- Introduction to Generative AI: [slides](https://docs.google.com/presentation/d/11iO6VpBTUaIRALvqqGUWHh_eIOIuiP6a-PAqkUWovSw/edit?usp=sharing)
+- Introduction to Generative AI [![Open in Slides](https://img.shields.io/badge/-Open%20in%20Slides-E37400?logo=googleslides&logoColor=F9AB00&labelColor=fff)](https://docs.google.com/presentation/d/11iO6VpBTUaIRALvqqGUWHh_eIOIuiP6a-PAqkUWovSw/edit?usp=sharing)
 - Language Models as Models of Language [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/main/Sessions/5a-Models-of-Language.ipynb)
 - LLMs as Research Assistants [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/main/Sessions/5b-LLMs-as-Research-Assistants.ipynb)
-- Using local LLMs: [slides](https://docs.google.com/presentation/d/10er_bs1rNMidXHPM-CDdmMcvo70yXuMvPJ-v3-nqGkw/edit?usp=sharing)
+- Using local LLMs [![Open in Slides](https://img.shields.io/badge/-Open%20in%20Slides-E37400?logo=googleslides&logoColor=F9AB00&labelColor=fff)](https://docs.google.com/presentation/d/10er_bs1rNMidXHPM-CDdmMcvo70yXuMvPJ-v3-nqGkw/edit?usp=sharing)
 - Using local LLMs with ollama [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/main/Sessions/5c-ollama.ipynb)
 
 ## Local installation
@@ -248,4 +248,4 @@ This course is based upon many previous resources. Apart from the ones above:
 - [The Turing Digital Humanities & Research Software Engineering Summer School](https://github.com/alan-turing-institute/DH-RSE-Summer-School)
 - Fede's [Computational Text Analysis](https://federiconannidotcom.wordpress.com/computational-text-analysis/) Course
 
-Resources mentioned during the workshop: [slides](https://docs.google.com/presentation/d/1GiFedCghUPDdVFGMpQ9xYpImG73uDDsvyA3HzZPT7U8/edit?usp=sharing)
+Resources mentioned during the workshop [![Open in Slides](https://img.shields.io/badge/-Open%20in%20Slides-E37400?logo=googleslides&logoColor=F9AB00&labelColor=fff)](https://docs.google.com/presentation/d/1GiFedCghUPDdVFGMpQ9xYpImG73uDDsvyA3HzZPT7U8/edit?usp=sharing)
