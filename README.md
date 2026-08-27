@@ -65,7 +65,7 @@ Language modelling: from words as columns to words as vectors.
 - Introduction to Generative AI [![Open in Slides](https://img.shields.io/badge/-Open%20in%20Slides-E37400?logo=googleslides&logoColor=F9AB00&labelColor=fff)](https://docs.google.com/presentation/d/11iO6VpBTUaIRALvqqGUWHh_eIOIuiP6a-PAqkUWovSw/edit?usp=sharing)
 - Transformers for NLP [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/main/Sessions/4c-Transformers-for-NLP.ipynb)
 - Language Models as Models of Language [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/main/Sessions/5a-Models-of-Language.ipynb)
-- LLMs as Research Assistants [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/main/Sessions/5b-LLMs-as-Research-Assistants.ipynb)
+- LLMs as Research Assistants [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/dhoxss-text2tech/blob/main/Sessions/5b-PromptingLLMs.ipynb)
 
 ### Additional material
 
